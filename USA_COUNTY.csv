@@ -1,0 +1,3235 @@
+,STATE,COUNTY,STATE_NAME,COUNTY_NAME
+0,01,001,Alabama,Autauga
+1,01,003,Alabama,Baldwin
+2,01,005,Alabama,Barbour
+3,01,007,Alabama,Bibb
+4,01,009,Alabama,Blount
+5,01,011,Alabama,Bullock
+6,01,013,Alabama,Butler
+7,01,015,Alabama,Calhoun
+8,01,017,Alabama,Chambers
+9,01,019,Alabama,Cherokee
+10,01,021,Alabama,Chilton
+11,01,023,Alabama,Choctaw
+12,01,025,Alabama,Clarke
+13,01,027,Alabama,Clay
+14,01,029,Alabama,Cleburne
+15,01,031,Alabama,Coffee
+16,01,033,Alabama,Colbert
+17,01,035,Alabama,Conecuh
+18,01,037,Alabama,Coosa
+19,01,039,Alabama,Covington
+20,01,041,Alabama,Crenshaw
+21,01,043,Alabama,Cullman
+22,01,045,Alabama,Dale
+23,01,047,Alabama,Dallas
+24,01,049,Alabama,DeKalb
+25,01,051,Alabama,Elmore
+26,01,053,Alabama,Escambia
+27,01,055,Alabama,Etowah
+28,01,057,Alabama,Fayette
+29,01,059,Alabama,Franklin
+30,01,061,Alabama,Geneva
+31,01,063,Alabama,Greene
+32,01,065,Alabama,Hale
+33,01,067,Alabama,Henry
+34,01,069,Alabama,Houston
+35,01,071,Alabama,Jackson
+36,01,073,Alabama,Jefferson
+37,01,075,Alabama,Lamar
+38,01,077,Alabama,Lauderdale
+39,01,079,Alabama,Lawrence *
+40,01,081,Alabama,Lee
+41,01,083,Alabama,Limestone
+42,01,085,Alabama,Lowndes
+43,01,087,Alabama,Macon
+44,01,089,Alabama,Madison
+45,01,091,Alabama,Marengo
+46,01,093,Alabama,Marion
+47,01,095,Alabama,Marshall
+48,01,097,Alabama,Mobile
+49,01,099,Alabama,Monroe
+50,01,101,Alabama,Montgomery
+51,01,103,Alabama,Morgan
+52,01,105,Alabama,Perry
+53,01,107,Alabama,Pickens
+54,01,109,Alabama,Pike
+55,01,111,Alabama,Randolph
+56,01,113,Alabama,Russell
+57,01,115,Alabama,St. Clair
+58,01,117,Alabama,Shelby
+59,01,119,Alabama,Sumter
+60,01,121,Alabama,Talladega
+61,01,123,Alabama,Tallapoosa
+62,01,125,Alabama,Tuscaloosa
+63,01,127,Alabama,Walker
+64,01,129,Alabama,Washington
+65,01,131,Alabama,Wilcox
+66,01,133,Alabama,Winston
+67,02,013,Alaska,Aleutians East
+68,02,016,Alaska,Aleutians West
+69,02,020,Alaska,Anchorage
+70,02,050,Alaska,Bethel
+71,02,060,Alaska,Bristol Bay
+72,02,063,Alaska,Chugach
+73,02,066,Alaska,Copper River
+74,02,068,Alaska,Denali
+75,02,070,Alaska,Dillingham
+76,02,090,Alaska,Fairbanks North Star
+77,02,100,Alaska,Haines
+78,02,105,Alaska,Hoonah-Angoon
+79,02,110,Alaska,Juneau
+80,02,122,Alaska,Kenai Peninsula
+81,02,130,Alaska,Ketchikan Gateway
+82,02,150,Alaska,Kodiak Island
+83,02,158,Alaska,Kusilvak
+84,02,164,Alaska,Lake and Peninsula
+85,02,170,Alaska,Matanuska-Susitna
+86,02,180,Alaska,Nome
+87,02,185,Alaska,North Slope
+88,02,188,Alaska,Northwest Arctic
+89,02,195,Alaska,Petersburg
+90,02,198,Alaska,Prince of Wales-Hyder
+91,02,220,Alaska,Sitka
+92,02,230,Alaska,Skagway
+93,02,240,Alaska,Southeast Fairbanks
+94,02,275,Alaska,Wrangell
+95,02,282,Alaska,Yakutat
+96,02,290,Alaska,Yukon-Koyukuk
+97,04,001,Arizona,Apache
+98,04,003,Arizona,Cochise
+99,04,005,Arizona,Coconino
+100,04,007,Arizona,Gila
+101,04,009,Arizona,Graham
+102,04,011,Arizona,Greenlee
+103,04,012,Arizona,La Paz
+104,04,013,Arizona,Maricopa
+105,04,015,Arizona,Mohave
+106,04,017,Arizona,Navajo
+107,04,019,Arizona,Pima
+108,04,021,Arizona,Pinal
+109,04,023,Arizona,Santa Cruz
+110,04,025,Arizona,Yavapai
+111,04,027,Arizona,Yuma
+112,05,001,Arkansas,Arkansas
+113,05,003,Arkansas,Ashley
+114,05,005,Arkansas,Baxter
+115,05,007,Arkansas,Benton
+116,05,009,Arkansas,Boone
+117,05,011,Arkansas,Bradley
+118,05,013,Arkansas,Calhoun
+119,05,015,Arkansas,Carroll
+120,05,017,Arkansas,Chicot
+121,05,019,Arkansas,Clark
+122,05,021,Arkansas,Clay
+123,05,023,Arkansas,Cleburne
+124,05,025,Arkansas,Cleveland
+125,05,027,Arkansas,Columbia
+126,05,029,Arkansas,Conway
+127,05,031,Arkansas,Craighead
+128,05,033,Arkansas,Crawford
+129,05,035,Arkansas,Crittenden
+130,05,037,Arkansas,Cross
+131,05,039,Arkansas,Dallas
+132,05,041,Arkansas,Desha
+133,05,043,Arkansas,Drew
+134,05,045,Arkansas,Faulkner
+135,05,047,Arkansas,Franklin
+136,05,049,Arkansas,Fulton
+137,05,051,Arkansas,Garland
+138,05,053,Arkansas,Grant
+139,05,055,Arkansas,Greene
+140,05,057,Arkansas,Hempstead
+141,05,059,Arkansas,Hot Spring
+142,05,061,Arkansas,Howard
+143,05,063,Arkansas,Independence
+144,05,065,Arkansas,Izard
+145,05,067,Arkansas,Jackson
+146,05,069,Arkansas,Jefferson
+147,05,071,Arkansas,Johnson
+148,05,073,Arkansas,Lafayette
+149,05,075,Arkansas,Lawrence
+150,05,077,Arkansas,Lee
+151,05,079,Arkansas,Lincoln
+152,05,081,Arkansas,Little River
+153,05,083,Arkansas,Logan
+154,05,085,Arkansas,Lonoke
+155,05,087,Arkansas,Madison
+156,05,089,Arkansas,Marion
+157,05,091,Arkansas,Miller
+158,05,093,Arkansas,Mississippi
+159,05,095,Arkansas,Monroe
+160,05,097,Arkansas,Montgomery
+161,05,099,Arkansas,Nevada
+162,05,101,Arkansas,Newton
+163,05,103,Arkansas,Ouachita
+164,05,105,Arkansas,Perry
+165,05,107,Arkansas,Phillips
+166,05,109,Arkansas,Pike
+167,05,111,Arkansas,Poinsett
+168,05,113,Arkansas,Polk
+169,05,115,Arkansas,Pope
+170,05,117,Arkansas,Prairie
+171,05,119,Arkansas,Pulaski
+172,05,121,Arkansas,Randolph
+173,05,123,Arkansas,St. Francis
+174,05,125,Arkansas,Saline
+175,05,127,Arkansas,Scott
+176,05,129,Arkansas,Searcy
+177,05,131,Arkansas,Sebastian
+178,05,133,Arkansas,Sevier
+179,05,135,Arkansas,Sharp
+180,05,137,Arkansas,Stone
+181,05,139,Arkansas,Union
+182,05,141,Arkansas,Van Buren
+183,05,143,Arkansas,Washington
+184,05,145,Arkansas,White
+185,05,147,Arkansas,Woodruff
+186,05,149,Arkansas,Yell
+187,06,001,California,Alameda
+188,06,003,California,Alpine
+189,06,005,California,Amador
+190,06,007,California,Butte
+191,06,009,California,Calaveras
+192,06,011,California,Colusa
+193,06,013,California,Contra Costa
+194,06,015,California,Del Norte
+195,06,017,California,El Dorado
+196,06,019,California,Fresno
+197,06,021,California,Glenn
+198,06,023,California,Humboldt
+199,06,025,California,Imperial
+200,06,027,California,Inyo
+201,06,029,California,Kern
+202,06,031,California,Kings
+203,06,033,California,Lake
+204,06,035,California,Lassen
+205,06,037,California,Los Angeles
+206,06,039,California,Madera
+207,06,041,California,Marin
+208,06,043,California,Mariposa
+209,06,045,California,Mendocino
+210,06,047,California,Merced
+211,06,049,California,Modoc
+212,06,051,California,Mono
+213,06,053,California,Monterey
+214,06,055,California,Napa
+215,06,057,California,Nevada
+216,06,059,California,Orange
+217,06,061,California,Placer
+218,06,063,California,Plumas
+219,06,065,California,Riverside
+220,06,067,California,Sacramento
+221,06,069,California,San Benito
+222,06,071,California,San Bernardino
+223,06,073,California,San Diego
+224,06,075,California,San Francisco
+225,06,077,California,San Joaquin
+226,06,079,California,San Luis Obispo
+227,06,081,California,San Mateo
+228,06,083,California,Santa Barbara
+229,06,085,California,Santa Clara
+230,06,087,California,Santa Cruz
+231,06,089,California,Shasta
+232,06,091,California,Sierra
+233,06,093,California,Siskiyou
+234,06,095,California,Solano
+235,06,097,California,Sonoma
+236,06,099,California,Stanislaus
+237,06,101,California,Sutter
+238,06,103,California,Tehama
+239,06,105,California,Trinity
+240,06,107,California,Tulare
+241,06,109,California,Tuolumne
+242,06,111,California,Ventura
+243,06,113,California,Yolo
+244,06,115,California,Yuba
+245,08,001,Colorado,Adams
+246,08,003,Colorado,Alamosa
+247,08,005,Colorado,Arapahoe
+248,08,007,Colorado,Archuleta
+249,08,009,Colorado,Baca
+250,08,011,Colorado,Bent
+251,08,013,Colorado,Boulder
+252,08,014,Colorado,Broomfield
+253,08,015,Colorado,Chaffee
+254,08,017,Colorado,Cheyenne
+255,08,019,Colorado,Clear Creek
+256,08,021,Colorado,Conejos
+257,08,023,Colorado,Costilla
+258,08,025,Colorado,Crowley
+259,08,027,Colorado,Custer
+260,08,029,Colorado,Delta
+261,08,031,Colorado,Denver *
+262,08,033,Colorado,Dolores
+263,08,035,Colorado,Douglas
+264,08,037,Colorado,Eagle
+265,08,039,Colorado,Elbert
+266,08,041,Colorado,El Paso
+267,08,043,Colorado,Fremont
+268,08,045,Colorado,Garfield
+269,08,047,Colorado,Gilpin
+270,08,049,Colorado,Grand
+271,08,051,Colorado,Gunnison
+272,08,053,Colorado,Hinsdale
+273,08,055,Colorado,Huerfano
+274,08,057,Colorado,Jackson
+275,08,059,Colorado,Jefferson
+276,08,061,Colorado,Kiowa
+277,08,063,Colorado,Kit Carson
+278,08,065,Colorado,Lake
+279,08,067,Colorado,La Plata
+280,08,069,Colorado,Larimer
+281,08,071,Colorado,Las Animas
+282,08,073,Colorado,Lincoln
+283,08,075,Colorado,Logan
+284,08,077,Colorado,Mesa
+285,08,079,Colorado,Mineral
+286,08,081,Colorado,Moffat
+287,08,083,Colorado,Montezuma
+288,08,085,Colorado,Montrose
+289,08,087,Colorado,Morgan
+290,08,089,Colorado,Otero
+291,08,091,Colorado,Ouray
+292,08,093,Colorado,Park
+293,08,095,Colorado,Phillips
+294,08,097,Colorado,Pitkin
+295,08,099,Colorado,Prowers
+296,08,101,Colorado,Pueblo
+297,08,103,Colorado,Rio Blanco
+298,08,105,Colorado,Rio Grande
+299,08,107,Colorado,Routt
+300,08,109,Colorado,Saguache
+301,08,111,Colorado,San Juan
+302,08,113,Colorado,San Miguel
+303,08,115,Colorado,Sedgwick
+304,08,117,Colorado,Summit
+305,08,119,Colorado,Teller
+306,08,121,Colorado,Washington
+307,08,123,Colorado,Weld
+308,08,125,Colorado,Yuma
+309,09,001,Connecticut,Fairfield
+310,09,003,Connecticut,Hartford
+311,09,005,Connecticut,Litchfield
+312,09,007,Connecticut,Middlesex
+313,09,009,Connecticut,New Haven
+314,09,011,Connecticut,New London
+315,09,013,Connecticut,Tolland
+316,09,015,Connecticut,Windham
+317,10,001,Delaware,Kent
+318,10,003,Delaware,New Castle
+319,10,005,Delaware,Sussex
+320,11,001,District of Columbia,District of Columbia
+321,12,001,Florida,Alachua
+322,12,003,Florida,Baker
+323,12,005,Florida,Bay
+324,12,007,Florida,Bradford
+325,12,009,Florida,Brevard
+326,12,011,Florida,Broward *
+327,12,013,Florida,Calhoun
+328,12,015,Florida,Charlotte
+329,12,017,Florida,Citrus
+330,12,019,Florida,Clay
+331,12,021,Florida,Collier
+332,12,023,Florida,Columbia
+333,12,027,Florida,DeSoto
+334,12,029,Florida,Dixie
+335,12,031,Florida,Duval
+336,12,033,Florida,Escambia
+337,12,035,Florida,Flagler
+338,12,037,Florida,Franklin
+339,12,039,Florida,Gadsden
+340,12,041,Florida,Gilchrist
+341,12,043,Florida,Glades
+342,12,045,Florida,Gulf
+343,12,047,Florida,Hamilton
+344,12,049,Florida,Hardee
+345,12,051,Florida,Hendry
+346,12,053,Florida,Hernando
+347,12,055,Florida,Highlands
+348,12,057,Florida,Hillsborough
+349,12,059,Florida,Holmes
+350,12,061,Florida,Indian River
+351,12,063,Florida,Jackson
+352,12,065,Florida,Jefferson
+353,12,067,Florida,Lafayette
+354,12,069,Florida,Lake
+355,12,071,Florida,Lee
+356,12,073,Florida,Leon
+357,12,075,Florida,Levy
+358,12,077,Florida,Liberty
+359,12,079,Florida,Madison
+360,12,081,Florida,Manatee
+361,12,083,Florida,Marion
+362,12,085,Florida,Martin
+363,12,086,Florida,Miami-Dade
+364,12,087,Florida,Monroe
+365,12,089,Florida,Nassau
+366,12,091,Florida,Okaloosa
+367,12,093,Florida,Okeechobee
+368,12,095,Florida,Orange
+369,12,097,Florida,Osceola
+370,12,099,Florida,Palm Beach
+371,12,101,Florida,Pasco
+372,12,103,Florida,Pinellas
+373,12,105,Florida,Polk
+374,12,107,Florida,Putnam
+375,12,109,Florida,St. Johns
+376,12,111,Florida,St. Lucie
+377,12,113,Florida,Santa Rosa
+378,12,115,Florida,Sarasota
+379,12,117,Florida,Seminole
+380,12,119,Florida,Sumter
+381,12,121,Florida,Suwannee
+382,12,123,Florida,Taylor
+383,12,125,Florida,Union
+384,12,127,Florida,Volusia
+385,12,129,Florida,Wakulla
+386,12,131,Florida,Walton
+387,12,133,Florida,Washington
+388,13,001,Georgia,Appling
+389,13,003,Georgia,Atkinson
+390,13,005,Georgia,Bacon
+391,13,007,Georgia,Baker
+392,13,009,Georgia,Baldwin
+393,13,011,Georgia,Banks
+394,13,013,Georgia,Barrow
+395,13,015,Georgia,Bartow
+396,13,017,Georgia,Ben Hill
+397,13,019,Georgia,Berrien
+398,13,021,Georgia,Bibb
+399,13,023,Georgia,Bleckley
+400,13,025,Georgia,Brantley
+401,13,027,Georgia,Brooks
+402,13,029,Georgia,Bryan
+403,13,031,Georgia,Bulloch
+404,13,033,Georgia,Burke
+405,13,035,Georgia,Butts
+406,13,037,Georgia,Calhoun
+407,13,039,Georgia,Camden
+408,13,043,Georgia,Candler
+409,13,045,Georgia,Carroll
+410,13,047,Georgia,Catoosa
+411,13,049,Georgia,Charlton
+412,13,051,Georgia,Chatham
+413,13,053,Georgia,Chattahoochee
+414,13,055,Georgia,Chattooga
+415,13,057,Georgia,Cherokee
+416,13,059,Georgia,Clarke
+417,13,061,Georgia,Clay
+418,13,063,Georgia,Clayton
+419,13,065,Georgia,Clinch
+420,13,067,Georgia,Cobb *
+421,13,069,Georgia,Coffee
+422,13,071,Georgia,Colquitt
+423,13,073,Georgia,Columbia
+424,13,075,Georgia,Cook
+425,13,077,Georgia,Coweta
+426,13,079,Georgia,Crawford
+427,13,081,Georgia,Crisp
+428,13,083,Georgia,Dade
+429,13,085,Georgia,Dawson
+430,13,087,Georgia,Decatur
+431,13,089,Georgia,DeKalb
+432,13,091,Georgia,Dodge
+433,13,093,Georgia,Dooly
+434,13,095,Georgia,Dougherty
+435,13,097,Georgia,Douglas
+436,13,099,Georgia,Early
+437,13,101,Georgia,Echols
+438,13,103,Georgia,Effingham
+439,13,105,Georgia,Elbert
+440,13,107,Georgia,Emanuel
+441,13,109,Georgia,Evans
+442,13,111,Georgia,Fannin
+443,13,113,Georgia,Fayette
+444,13,115,Georgia,Floyd
+445,13,117,Georgia,Forsyth
+446,13,119,Georgia,Franklin
+447,13,121,Georgia,Fulton
+448,13,123,Georgia,Gilmer
+449,13,125,Georgia,Glascock
+450,13,127,Georgia,Glynn
+451,13,129,Georgia,Gordon
+452,13,131,Georgia,Grady
+453,13,133,Georgia,Greene
+454,13,135,Georgia,Gwinnett
+455,13,137,Georgia,Habersham
+456,13,139,Georgia,Hall
+457,13,141,Georgia,Hancock
+458,13,143,Georgia,Haralson
+459,13,145,Georgia,Harris
+460,13,147,Georgia,Hart
+461,13,149,Georgia,Heard
+462,13,151,Georgia,Henry
+463,13,153,Georgia,Houston
+464,13,155,Georgia,Irwin
+465,13,157,Georgia,Jackson
+466,13,159,Georgia,Jasper
+467,13,161,Georgia,Jeff Davis
+468,13,163,Georgia,Jefferson
+469,13,165,Georgia,Jenkins
+470,13,167,Georgia,Johnson
+471,13,169,Georgia,Jones
+472,13,171,Georgia,Lamar
+473,13,173,Georgia,Lanier
+474,13,175,Georgia,Laurens
+475,13,177,Georgia,Lee
+476,13,179,Georgia,Liberty
+477,13,181,Georgia,Lincoln
+478,13,183,Georgia,Long
+479,13,185,Georgia,Lowndes
+480,13,187,Georgia,Lumpkin
+481,13,189,Georgia,McDuffie
+482,13,191,Georgia,McIntosh
+483,13,193,Georgia,Macon
+484,13,195,Georgia,Madison
+485,13,197,Georgia,Marion
+486,13,199,Georgia,Meriwether
+487,13,201,Georgia,Miller
+488,13,205,Georgia,Mitchell
+489,13,207,Georgia,Monroe
+490,13,209,Georgia,Montgomery
+491,13,211,Georgia,Morgan
+492,13,213,Georgia,Murray
+493,13,215,Georgia,Muscogee
+494,13,217,Georgia,Newton
+495,13,219,Georgia,Oconee
+496,13,221,Georgia,Oglethorpe
+497,13,223,Georgia,Paulding
+498,13,225,Georgia,Peach
+499,13,227,Georgia,Pickens
+500,13,229,Georgia,Pierce
+501,13,231,Georgia,Pike
+502,13,233,Georgia,Polk
+503,13,235,Georgia,Pulaski
+504,13,237,Georgia,Putnam
+505,13,239,Georgia,Quitman
+506,13,241,Georgia,Rabun
+507,13,243,Georgia,Randolph
+508,13,245,Georgia,Richmond
+509,13,247,Georgia,Rockdale
+510,13,249,Georgia,Schley
+511,13,251,Georgia,Screven
+512,13,253,Georgia,Seminole
+513,13,255,Georgia,Spalding
+514,13,257,Georgia,Stephens
+515,13,259,Georgia,Stewart
+516,13,261,Georgia,Sumter
+517,13,263,Georgia,Talbot
+518,13,265,Georgia,Taliaferro
+519,13,267,Georgia,Tattnall
+520,13,269,Georgia,Taylor
+521,13,271,Georgia,Telfair
+522,13,273,Georgia,Terrell
+523,13,275,Georgia,Thomas
+524,13,277,Georgia,Tift
+525,13,279,Georgia,Toombs
+526,13,281,Georgia,Towns
+527,13,283,Georgia,Treutlen
+528,13,285,Georgia,Troup
+529,13,287,Georgia,Turner
+530,13,289,Georgia,Twiggs
+531,13,291,Georgia,Union
+532,13,293,Georgia,Upson
+533,13,295,Georgia,Walker
+534,13,297,Georgia,Walton
+535,13,299,Georgia,Ware
+536,13,301,Georgia,Warren
+537,13,303,Georgia,Washington
+538,13,305,Georgia,Wayne
+539,13,307,Georgia,Webster
+540,13,309,Georgia,Wheeler
+541,13,311,Georgia,White
+542,13,313,Georgia,Whitfield
+543,13,315,Georgia,Wilcox
+544,13,317,Georgia,Wilkes
+545,13,319,Georgia,Wilkinson
+546,13,321,Georgia,Worth
+547,15,001,Hawaii,Hawaii
+548,15,003,Hawaii,Honolulu
+549,15,005,Hawaii,Kalawao
+550,15,007,Hawaii,Kauai
+551,15,009,Hawaii,Maui
+552,16,001,Idaho,Ada
+553,16,003,Idaho,Adams
+554,16,005,Idaho,Bannock
+555,16,007,Idaho,Bear Lake
+556,16,009,Idaho,Benewah
+557,16,011,Idaho,Bingham
+558,16,013,Idaho,Blaine
+559,16,015,Idaho,Boise
+560,16,017,Idaho,Bonner
+561,16,019,Idaho,Bonneville
+562,16,021,Idaho,Boundary
+563,16,023,Idaho,Butte
+564,16,025,Idaho,Camas
+565,16,027,Idaho,Canyon
+566,16,029,Idaho,Caribou
+567,16,031,Idaho,Cassia
+568,16,033,Idaho,Clark
+569,16,035,Idaho,Clearwater
+570,16,037,Idaho,Custer
+571,16,039,Idaho,Elmore
+572,16,041,Idaho,Franklin
+573,16,043,Idaho,Fremont
+574,16,045,Idaho,Gem
+575,16,047,Idaho,Gooding
+576,16,049,Idaho,Idaho
+577,16,051,Idaho,Jefferson
+578,16,053,Idaho,Jerome
+579,16,055,Idaho,Kootenai
+580,16,057,Idaho,Latah
+581,16,059,Idaho,Lemhi
+582,16,061,Idaho,Lewis
+583,16,063,Idaho,Lincoln
+584,16,065,Idaho,Madison
+585,16,067,Idaho,Minidoka
+586,16,069,Idaho,Nez Perce
+587,16,071,Idaho,Oneida
+588,16,073,Idaho,Owyhee
+589,16,075,Idaho,Payette
+590,16,077,Idaho,Power
+591,16,079,Idaho,Shoshone
+592,16,081,Idaho,Teton
+593,16,083,Idaho,Twin Falls
+594,16,085,Idaho,Valley
+595,16,087,Idaho,Washington
+596,17,001,Illinois,Adams
+597,17,003,Illinois,Alexander
+598,17,005,Illinois,Bond
+599,17,007,Illinois,Boone
+600,17,009,Illinois,Brown
+601,17,011,Illinois,Bureau
+602,17,013,Illinois,Calhoun
+603,17,015,Illinois,Carroll
+604,17,017,Illinois,Cass
+605,17,019,Illinois,Champaign
+606,17,021,Illinois,Christian
+607,17,023,Illinois,Clark
+608,17,025,Illinois,Clay
+609,17,027,Illinois,Clinton
+610,17,029,Illinois,Coles
+611,17,031,Illinois,Cook
+612,17,033,Illinois,Crawford
+613,17,035,Illinois,Cumberland
+614,17,037,Illinois,DeKalb
+615,17,039,Illinois,De Witt
+616,17,041,Illinois,Douglas
+617,17,043,Illinois,DuPage
+618,17,045,Illinois,Edgar
+619,17,047,Illinois,Edwards
+620,17,049,Illinois,Effingham
+621,17,051,Illinois,Fayette
+622,17,053,Illinois,Ford
+623,17,055,Illinois,Franklin
+624,17,057,Illinois,Fulton
+625,17,059,Illinois,Gallatin
+626,17,061,Illinois,Greene
+627,17,063,Illinois,Grundy
+628,17,065,Illinois,Hamilton
+629,17,067,Illinois,Hancock
+630,17,069,Illinois,Hardin
+631,17,071,Illinois,Henderson
+632,17,073,Illinois,Henry
+633,17,075,Illinois,Iroquois
+634,17,077,Illinois,Jackson
+635,17,079,Illinois,Jasper
+636,17,081,Illinois,Jefferson
+637,17,083,Illinois,Jersey
+638,17,085,Illinois,Jo Daviess
+639,17,087,Illinois,Johnson
+640,17,089,Illinois,Kane
+641,17,091,Illinois,Kankakee
+642,17,093,Illinois,Kendall
+643,17,095,Illinois,Knox
+644,17,097,Illinois,Lake
+645,17,099,Illinois,LaSalle
+646,17,101,Illinois,Lawrence
+647,17,103,Illinois,Lee
+648,17,105,Illinois,Livingston
+649,17,107,Illinois,Logan
+650,17,109,Illinois,McDonough
+651,17,111,Illinois,McHenry
+652,17,113,Illinois,McLean
+653,17,115,Illinois,Macon
+654,17,117,Illinois,Macoupin
+655,17,119,Illinois,Madison
+656,17,121,Illinois,Marion
+657,17,123,Illinois,Marshall
+658,17,125,Illinois,Mason
+659,17,127,Illinois,Massac
+660,17,129,Illinois,Menard
+661,17,131,Illinois,Mercer
+662,17,133,Illinois,Monroe
+663,17,135,Illinois,Montgomery
+664,17,137,Illinois,Morgan
+665,17,139,Illinois,Moultrie
+666,17,141,Illinois,Ogle
+667,17,143,Illinois,Peoria
+668,17,145,Illinois,Perry
+669,17,147,Illinois,Piatt
+670,17,149,Illinois,Pike
+671,17,151,Illinois,Pope
+672,17,153,Illinois,Pulaski
+673,17,155,Illinois,Putnam
+674,17,157,Illinois,Randolph
+675,17,159,Illinois,Richland
+676,17,161,Illinois,Rock Island
+677,17,163,Illinois,St. Clair
+678,17,165,Illinois,Saline
+679,17,167,Illinois,Sangamon
+680,17,169,Illinois,Schuyler
+681,17,171,Illinois,Scott
+682,17,173,Illinois,Shelby
+683,17,175,Illinois,Stark
+684,17,177,Illinois,Stephenson
+685,17,179,Illinois,Tazewell
+686,17,181,Illinois,Union
+687,17,183,Illinois,Vermilion
+688,17,185,Illinois,Wabash
+689,17,187,Illinois,Warren
+690,17,189,Illinois,Washington
+691,17,191,Illinois,Wayne
+692,17,193,Illinois,White
+693,17,195,Illinois,Whiteside
+694,17,197,Illinois,Will
+695,17,199,Illinois,Williamson
+696,17,201,Illinois,Winnebago
+697,17,203,Illinois,Woodford
+698,18,001,Indiana,Adams
+699,18,003,Indiana,Allen
+700,18,005,Indiana,Bartholomew
+701,18,007,Indiana,Benton
+702,18,009,Indiana,Blackford
+703,18,011,Indiana,Boone
+704,18,013,Indiana,Brown
+705,18,015,Indiana,Carroll
+706,18,017,Indiana,Cass
+707,18,019,Indiana,Clark
+708,18,021,Indiana,Clay
+709,18,023,Indiana,Clinton
+710,18,025,Indiana,Crawford
+711,18,027,Indiana,Daviess
+712,18,029,Indiana,Dearborn
+713,18,031,Indiana,Decatur
+714,18,033,Indiana,DeKalb
+715,18,035,Indiana,Delaware
+716,18,037,Indiana,Dubois
+717,18,039,Indiana,Elkhart
+718,18,041,Indiana,Fayette
+719,18,043,Indiana,Floyd
+720,18,045,Indiana,Fountain
+721,18,047,Indiana,Franklin
+722,18,049,Indiana,Fulton
+723,18,051,Indiana,Gibson
+724,18,053,Indiana,Grant
+725,18,055,Indiana,Greene
+726,18,057,Indiana,Hamilton
+727,18,059,Indiana,Hancock
+728,18,061,Indiana,Harrison
+729,18,063,Indiana,Hendricks
+730,18,065,Indiana,Henry
+731,18,067,Indiana,Howard
+732,18,069,Indiana,Huntington
+733,18,071,Indiana,Jackson
+734,18,073,Indiana,Jasper
+735,18,075,Indiana,Jay
+736,18,077,Indiana,Jefferson
+737,18,079,Indiana,Jennings
+738,18,081,Indiana,Johnson
+739,18,083,Indiana,Knox
+740,18,085,Indiana,Kosciusko
+741,18,087,Indiana,LaGrange
+742,18,089,Indiana,Lake
+743,18,091,Indiana,LaPorte
+744,18,093,Indiana,Lawrence
+745,18,095,Indiana,Madison
+746,18,097,Indiana,Marion
+747,18,099,Indiana,Marshall
+748,18,101,Indiana,Martin
+749,18,103,Indiana,Miami
+750,18,105,Indiana,Monroe
+751,18,107,Indiana,Montgomery
+752,18,109,Indiana,Morgan
+753,18,111,Indiana,Newton
+754,18,113,Indiana,Noble
+755,18,115,Indiana,Ohio
+756,18,117,Indiana,Orange
+757,18,119,Indiana,Owen
+758,18,121,Indiana,Parke
+759,18,123,Indiana,Perry
+760,18,125,Indiana,Pike
+761,18,127,Indiana,Porter
+762,18,129,Indiana,Posey
+763,18,131,Indiana,Pulaski
+764,18,133,Indiana,Putnam
+765,18,135,Indiana,Randolph
+766,18,137,Indiana,Ripley
+767,18,139,Indiana,Rush
+768,18,141,Indiana,St. Joseph
+769,18,143,Indiana,Scott
+770,18,145,Indiana,Shelby
+771,18,147,Indiana,Spencer
+772,18,149,Indiana,Starke
+773,18,151,Indiana,Steuben
+774,18,153,Indiana,Sullivan
+775,18,155,Indiana,Switzerland
+776,18,157,Indiana,Tippecanoe
+777,18,159,Indiana,Tipton
+778,18,161,Indiana,Union
+779,18,163,Indiana,Vanderburgh
+780,18,165,Indiana,Vermillion
+781,18,167,Indiana,Vigo
+782,18,169,Indiana,Wabash
+783,18,171,Indiana,Warren
+784,18,173,Indiana,Warrick
+785,18,175,Indiana,Washington
+786,18,177,Indiana,Wayne
+787,18,179,Indiana,Wells
+788,18,181,Indiana,White
+789,18,183,Indiana,Whitley
+790,19,001,Iowa,Adair
+791,19,003,Iowa,Adams
+792,19,005,Iowa,Allamakee
+793,19,007,Iowa,Appanoose
+794,19,009,Iowa,Audubon
+795,19,011,Iowa,Benton
+796,19,013,Iowa,Black Hawk
+797,19,015,Iowa,Boone
+798,19,017,Iowa,Bremer
+799,19,019,Iowa,Buchanan
+800,19,021,Iowa,Buena Vista
+801,19,023,Iowa,Butler
+802,19,025,Iowa,Calhoun
+803,19,027,Iowa,Carroll
+804,19,029,Iowa,Cass
+805,19,031,Iowa,Cedar
+806,19,033,Iowa,Cerro Gordo
+807,19,035,Iowa,Cherokee
+808,19,037,Iowa,Chickasaw
+809,19,039,Iowa,Clarke
+810,19,041,Iowa,Clay
+811,19,043,Iowa,Clayton
+812,19,045,Iowa,Clinton
+813,19,047,Iowa,Crawford
+814,19,049,Iowa,Dallas
+815,19,051,Iowa,Davis
+816,19,053,Iowa,Decatur
+817,19,055,Iowa,Delaware
+818,19,057,Iowa,Des Moines
+819,19,059,Iowa,Dickinson
+820,19,061,Iowa,Dubuque
+821,19,063,Iowa,Emmet
+822,19,065,Iowa,Fayette
+823,19,067,Iowa,Floyd
+824,19,069,Iowa,Franklin
+825,19,071,Iowa,Fremont
+826,19,073,Iowa,Greene
+827,19,075,Iowa,Grundy
+828,19,077,Iowa,Guthrie
+829,19,079,Iowa,Hamilton
+830,19,081,Iowa,Hancock
+831,19,083,Iowa,Hardin
+832,19,085,Iowa,Harrison
+833,19,087,Iowa,Henry
+834,19,089,Iowa,Howard
+835,19,091,Iowa,Humboldt
+836,19,093,Iowa,Ida
+837,19,095,Iowa,Iowa
+838,19,097,Iowa,Jackson
+839,19,099,Iowa,Jasper
+840,19,101,Iowa,Jefferson
+841,19,103,Iowa,Johnson
+842,19,105,Iowa,Jones
+843,19,107,Iowa,Keokuk
+844,19,109,Iowa,Kossuth
+845,19,111,Iowa,Lee
+846,19,113,Iowa,Linn
+847,19,115,Iowa,Louisa
+848,19,117,Iowa,Lucas
+849,19,119,Iowa,Lyon
+850,19,121,Iowa,Madison
+851,19,123,Iowa,Mahaska
+852,19,125,Iowa,Marion
+853,19,127,Iowa,Marshall
+854,19,129,Iowa,Mills
+855,19,131,Iowa,Mitchell
+856,19,133,Iowa,Monona
+857,19,135,Iowa,Monroe
+858,19,137,Iowa,Montgomery
+859,19,139,Iowa,Muscatine
+860,19,141,Iowa,O'Brien
+861,19,143,Iowa,Osceola
+862,19,145,Iowa,Page
+863,19,147,Iowa,Palo Alto
+864,19,149,Iowa,Plymouth
+865,19,151,Iowa,Pocahontas
+866,19,153,Iowa,Polk
+867,19,155,Iowa,Pottawattamie
+868,19,157,Iowa,Poweshiek
+869,19,159,Iowa,Ringgold
+870,19,161,Iowa,Sac
+871,19,163,Iowa,Scott
+872,19,165,Iowa,Shelby
+873,19,167,Iowa,Sioux
+874,19,169,Iowa,Story
+875,19,171,Iowa,Tama
+876,19,173,Iowa,Taylor
+877,19,175,Iowa,Union
+878,19,177,Iowa,Van Buren
+879,19,179,Iowa,Wapello
+880,19,181,Iowa,Warren
+881,19,183,Iowa,Washington
+882,19,185,Iowa,Wayne
+883,19,187,Iowa,Webster
+884,19,189,Iowa,Winnebago
+885,19,191,Iowa,Winneshiek
+886,19,193,Iowa,Woodbury
+887,19,195,Iowa,Worth
+888,19,197,Iowa,Wright
+889,20,001,Kansas,Allen
+890,20,003,Kansas,Anderson
+891,20,005,Kansas,Atchison
+892,20,007,Kansas,Barber
+893,20,009,Kansas,Barton
+894,20,011,Kansas,Bourbon
+895,20,013,Kansas,Brown
+896,20,015,Kansas,Butler
+897,20,017,Kansas,Chase
+898,20,019,Kansas,Chautauqua
+899,20,021,Kansas,Cherokee
+900,20,023,Kansas,Cheyenne
+901,20,025,Kansas,Clark
+902,20,027,Kansas,Clay
+903,20,029,Kansas,Cloud
+904,20,031,Kansas,Coffey
+905,20,033,Kansas,Comanche
+906,20,035,Kansas,Cowley
+907,20,037,Kansas,Crawford
+908,20,039,Kansas,Decatur
+909,20,041,Kansas,Dickinson
+910,20,043,Kansas,Doniphan
+911,20,045,Kansas,Douglas
+912,20,047,Kansas,Edwards
+913,20,049,Kansas,Elk
+914,20,051,Kansas,Ellis
+915,20,053,Kansas,Ellsworth
+916,20,055,Kansas,Finney
+917,20,057,Kansas,Ford
+918,20,059,Kansas,Franklin
+919,20,061,Kansas,Geary
+920,20,063,Kansas,Gove
+921,20,065,Kansas,Graham
+922,20,067,Kansas,Grant
+923,20,069,Kansas,Gray
+924,20,071,Kansas,Greeley
+925,20,073,Kansas,Greenwood
+926,20,075,Kansas,Hamilton
+927,20,077,Kansas,Harper
+928,20,079,Kansas,Harvey
+929,20,081,Kansas,Haskell
+930,20,083,Kansas,Hodgeman
+931,20,085,Kansas,Jackson
+932,20,087,Kansas,Jefferson
+933,20,089,Kansas,Jewell
+934,20,091,Kansas,Johnson
+935,20,093,Kansas,Kearny
+936,20,095,Kansas,Kingman
+937,20,097,Kansas,Kiowa
+938,20,099,Kansas,Labette
+939,20,101,Kansas,Lane
+940,20,103,Kansas,Leavenworth
+941,20,105,Kansas,Lincoln
+942,20,107,Kansas,Linn
+943,20,109,Kansas,Logan
+944,20,111,Kansas,Lyon
+945,20,113,Kansas,McPherson
+946,20,115,Kansas,Marion
+947,20,117,Kansas,Marshall
+948,20,119,Kansas,Meade
+949,20,121,Kansas,Miami
+950,20,123,Kansas,Mitchell
+951,20,125,Kansas,Montgomery
+952,20,127,Kansas,Morris
+953,20,129,Kansas,Morton
+954,20,131,Kansas,Nemaha
+955,20,133,Kansas,Neosho
+956,20,135,Kansas,Ness
+957,20,137,Kansas,Norton
+958,20,139,Kansas,Osage
+959,20,141,Kansas,Osborne
+960,20,143,Kansas,Ottawa
+961,20,145,Kansas,Pawnee
+962,20,147,Kansas,Phillips
+963,20,149,Kansas,Pottawatomie
+964,20,151,Kansas,Pratt
+965,20,153,Kansas,Rawlins
+966,20,155,Kansas,Reno
+967,20,157,Kansas,Republic
+968,20,159,Kansas,Rice
+969,20,161,Kansas,Riley
+970,20,163,Kansas,Rooks
+971,20,165,Kansas,Rush
+972,20,167,Kansas,Russell
+973,20,169,Kansas,Saline
+974,20,171,Kansas,Scott
+975,20,173,Kansas,Sedgwick
+976,20,175,Kansas,Seward
+977,20,177,Kansas,Shawnee
+978,20,179,Kansas,Sheridan
+979,20,181,Kansas,Sherman
+980,20,183,Kansas,Smith
+981,20,185,Kansas,Stafford
+982,20,187,Kansas,Stanton
+983,20,189,Kansas,Stevens
+984,20,191,Kansas,Sumner
+985,20,193,Kansas,Thomas
+986,20,195,Kansas,Trego
+987,20,197,Kansas,Wabaunsee
+988,20,199,Kansas,Wallace
+989,20,201,Kansas,Washington
+990,20,203,Kansas,Wichita
+991,20,205,Kansas,Wilson
+992,20,207,Kansas,Woodson
+993,20,209,Kansas,Wyandotte
+994,21,001,Kentucky,Adair
+995,21,003,Kentucky,Allen
+996,21,005,Kentucky,Anderson
+997,21,007,Kentucky,Ballard
+998,21,009,Kentucky,Barren
+999,21,011,Kentucky,Bath
+1000,21,013,Kentucky,Bell
+1001,21,015,Kentucky,Boone
+1002,21,017,Kentucky,Bourbon
+1003,21,019,Kentucky,Boyd
+1004,21,021,Kentucky,Boyle
+1005,21,023,Kentucky,Bracken
+1006,21,025,Kentucky,Breathitt
+1007,21,027,Kentucky,Breckinridge
+1008,21,029,Kentucky,Bullitt
+1009,21,031,Kentucky,Butler
+1010,21,033,Kentucky,Caldwell
+1011,21,035,Kentucky,Calloway
+1012,21,037,Kentucky,Campbell
+1013,21,039,Kentucky,Carlisle
+1014,21,041,Kentucky,Carroll
+1015,21,043,Kentucky,Carter
+1016,21,045,Kentucky,Casey
+1017,21,047,Kentucky,Christian
+1018,21,049,Kentucky,Clark
+1019,21,051,Kentucky,Clay
+1020,21,053,Kentucky,Clinton
+1021,21,055,Kentucky,Crittenden
+1022,21,057,Kentucky,Cumberland
+1023,21,059,Kentucky,Daviess
+1024,21,061,Kentucky,Edmonson
+1025,21,063,Kentucky,Elliott
+1026,21,065,Kentucky,Estill
+1027,21,067,Kentucky,Fayette
+1028,21,069,Kentucky,Fleming
+1029,21,071,Kentucky,Floyd
+1030,21,073,Kentucky,Franklin
+1031,21,075,Kentucky,Fulton
+1032,21,077,Kentucky,Gallatin
+1033,21,079,Kentucky,Garrard
+1034,21,081,Kentucky,Grant
+1035,21,083,Kentucky,Graves
+1036,21,085,Kentucky,Grayson
+1037,21,087,Kentucky,Green
+1038,21,089,Kentucky,Greenup
+1039,21,091,Kentucky,Hancock
+1040,21,093,Kentucky,Hardin
+1041,21,095,Kentucky,Harlan
+1042,21,097,Kentucky,Harrison
+1043,21,099,Kentucky,Hart
+1044,21,101,Kentucky,Henderson
+1045,21,103,Kentucky,Henry
+1046,21,105,Kentucky,Hickman
+1047,21,107,Kentucky,Hopkins
+1048,21,109,Kentucky,Jackson
+1049,21,111,Kentucky,Jefferson
+1050,21,113,Kentucky,Jessamine
+1051,21,115,Kentucky,Johnson
+1052,21,117,Kentucky,Kenton
+1053,21,119,Kentucky,Knott
+1054,21,121,Kentucky,Knox
+1055,21,123,Kentucky,Larue
+1056,21,125,Kentucky,Laurel
+1057,21,127,Kentucky,Lawrence
+1058,21,129,Kentucky,Lee
+1059,21,131,Kentucky,Leslie
+1060,21,133,Kentucky,Letcher
+1061,21,135,Kentucky,Lewis
+1062,21,137,Kentucky,Lincoln *
+1063,21,139,Kentucky,Livingston
+1064,21,141,Kentucky,Logan
+1065,21,143,Kentucky,Lyon
+1066,21,145,Kentucky,McCracken
+1067,21,147,Kentucky,McCreary
+1068,21,149,Kentucky,McLean
+1069,21,151,Kentucky,Madison
+1070,21,153,Kentucky,Magoffin
+1071,21,155,Kentucky,Marion
+1072,21,157,Kentucky,Marshall
+1073,21,159,Kentucky,Martin
+1074,21,161,Kentucky,Mason
+1075,21,163,Kentucky,Meade
+1076,21,165,Kentucky,Menifee
+1077,21,167,Kentucky,Mercer
+1078,21,169,Kentucky,Metcalfe
+1079,21,171,Kentucky,Monroe
+1080,21,173,Kentucky,Montgomery
+1081,21,175,Kentucky,Morgan
+1082,21,177,Kentucky,Muhlenberg
+1083,21,179,Kentucky,Nelson
+1084,21,181,Kentucky,Nicholas
+1085,21,183,Kentucky,Ohio
+1086,21,185,Kentucky,Oldham
+1087,21,187,Kentucky,Owen
+1088,21,189,Kentucky,Owsley
+1089,21,191,Kentucky,Pendleton
+1090,21,193,Kentucky,Perry
+1091,21,195,Kentucky,Pike
+1092,21,197,Kentucky,Powell
+1093,21,199,Kentucky,Pulaski
+1094,21,201,Kentucky,Robertson
+1095,21,203,Kentucky,Rockcastle
+1096,21,205,Kentucky,Rowan
+1097,21,207,Kentucky,Russell
+1098,21,209,Kentucky,Scott
+1099,21,211,Kentucky,Shelby
+1100,21,213,Kentucky,Simpson
+1101,21,215,Kentucky,Spencer
+1102,21,217,Kentucky,Taylor
+1103,21,219,Kentucky,Todd
+1104,21,221,Kentucky,Trigg
+1105,21,223,Kentucky,Trimble
+1106,21,225,Kentucky,Union
+1107,21,227,Kentucky,Warren
+1108,21,229,Kentucky,Washington
+1109,21,231,Kentucky,Wayne
+1110,21,233,Kentucky,Webster
+1111,21,235,Kentucky,Whitley
+1112,21,237,Kentucky,Wolfe
+1113,21,239,Kentucky,Woodford
+1114,22,001,Louisiana,Acadia
+1115,22,003,Louisiana,Allen
+1116,22,005,Louisiana,Ascension
+1117,22,007,Louisiana,Assumption
+1118,22,009,Louisiana,Avoyelles
+1119,22,011,Louisiana,Beauregard
+1120,22,013,Louisiana,Bienville
+1121,22,015,Louisiana,Bossier
+1122,22,017,Louisiana,Caddo
+1123,22,019,Louisiana,Calcasieu
+1124,22,021,Louisiana,Caldwell
+1125,22,023,Louisiana,Cameron
+1126,22,025,Louisiana,Catahoula
+1127,22,027,Louisiana,Claiborne
+1128,22,029,Louisiana,Concordia
+1129,22,031,Louisiana,De Soto
+1130,22,033,Louisiana,East Baton Rouge
+1131,22,035,Louisiana,East Carroll
+1132,22,037,Louisiana,East Feliciana
+1133,22,039,Louisiana,Evangeline
+1134,22,041,Louisiana,Franklin
+1135,22,043,Louisiana,Grant
+1136,22,045,Louisiana,Iberia
+1137,22,047,Louisiana,Iberville
+1138,22,049,Louisiana,Jackson
+1139,22,051,Louisiana,Jefferson
+1140,22,053,Louisiana,Jefferson Davis
+1141,22,055,Louisiana,Lafayette
+1142,22,057,Louisiana,Lafourche
+1143,22,059,Louisiana,LaSalle
+1144,22,061,Louisiana,Lincoln
+1145,22,063,Louisiana,Livingston
+1146,22,065,Louisiana,Madison
+1147,22,067,Louisiana,Morehouse
+1148,22,069,Louisiana,Natchitoches
+1149,22,071,Louisiana,Orleans
+1150,22,073,Louisiana,Ouachita
+1151,22,075,Louisiana,Plaquemines
+1152,22,077,Louisiana,Pointe Coupee
+1153,22,079,Louisiana,Rapides
+1154,22,081,Louisiana,Red River
+1155,22,083,Louisiana,Richland
+1156,22,085,Louisiana,Sabine
+1157,22,087,Louisiana,St. Bernard
+1158,22,089,Louisiana,St. Charles
+1159,22,091,Louisiana,St. Helena
+1160,22,093,Louisiana,St. James
+1161,22,095,Louisiana,St. John the Baptist
+1162,22,097,Louisiana,St. Landry
+1163,22,099,Louisiana,St. Martin
+1164,22,101,Louisiana,St. Mary
+1165,22,103,Louisiana,St. Tammany
+1166,22,105,Louisiana,Tangipahoa
+1167,22,107,Louisiana,Tensas
+1168,22,109,Louisiana,Terrebonne
+1169,22,111,Louisiana,Union
+1170,22,113,Louisiana,Vermilion
+1171,22,115,Louisiana,Vernon
+1172,22,117,Louisiana,Washington
+1173,22,119,Louisiana,Webster
+1174,22,121,Louisiana,West Baton Rouge
+1175,22,123,Louisiana,West Carroll
+1176,22,125,Louisiana,West Feliciana
+1177,22,127,Louisiana,Winn
+1178,23,001,Maine,Androscoggin
+1179,23,003,Maine,Aroostook
+1180,23,005,Maine,Cumberland
+1181,23,007,Maine,Franklin
+1182,23,009,Maine,Hancock
+1183,23,011,Maine,Kennebec
+1184,23,013,Maine,Knox
+1185,23,015,Maine,Lincoln
+1186,23,017,Maine,Oxford
+1187,23,019,Maine,Penobscot
+1188,23,021,Maine,Piscataquis
+1189,23,023,Maine,Sagadahoc
+1190,23,025,Maine,Somerset
+1191,23,027,Maine,Waldo
+1192,23,029,Maine,Washington
+1193,23,031,Maine,York
+1194,24,001,Maryland,Allegany
+1195,24,003,Maryland,Anne Arundel
+1196,24,005,Maryland,Baltimore
+1197,24,009,Maryland,Calvert
+1198,24,011,Maryland,Caroline
+1199,24,013,Maryland,Carroll
+1200,24,015,Maryland,Cecil
+1201,24,017,Maryland,Charles
+1202,24,019,Maryland,Dorchester
+1203,24,021,Maryland,Frederick
+1204,24,023,Maryland,Garrett
+1205,24,025,Maryland,Harford
+1206,24,027,Maryland,Howard
+1207,24,029,Maryland,Kent
+1208,24,031,Maryland,Montgomery
+1209,24,033,Maryland,Prince George's
+1210,24,035,Maryland,Queen Anne's
+1211,24,037,Maryland,St. Mary's
+1212,24,039,Maryland,Somerset
+1213,24,041,Maryland,Talbot
+1214,24,043,Maryland,Washington
+1215,24,045,Maryland,Wicomico
+1216,24,047,Maryland,Worcester
+1217,24,510,Maryland,Baltimore
+1218,25,001,Massachusetts,Barnstable
+1219,25,003,Massachusetts,Berkshire
+1220,25,005,Massachusetts,Bristol
+1221,25,007,Massachusetts,Dukes
+1222,25,009,Massachusetts,Essex
+1223,25,011,Massachusetts,Franklin
+1224,25,013,Massachusetts,Hampden
+1225,25,015,Massachusetts,Hampshire
+1226,25,017,Massachusetts,Middlesex
+1227,25,019,Massachusetts,Nantucket
+1228,25,021,Massachusetts,Norfolk
+1229,25,023,Massachusetts,Plymouth
+1230,25,025,Massachusetts,Suffolk *
+1231,25,027,Massachusetts,Worcester
+1232,26,001,Michigan,Alcona
+1233,26,003,Michigan,Alger
+1234,26,005,Michigan,Allegan
+1235,26,007,Michigan,Alpena
+1236,26,009,Michigan,Antrim
+1237,26,011,Michigan,Arenac
+1238,26,013,Michigan,Baraga
+1239,26,015,Michigan,Barry
+1240,26,017,Michigan,Bay
+1241,26,019,Michigan,Benzie
+1242,26,021,Michigan,Berrien
+1243,26,023,Michigan,Branch
+1244,26,025,Michigan,Calhoun
+1245,26,027,Michigan,Cass
+1246,26,029,Michigan,Charlevoix
+1247,26,031,Michigan,Cheboygan
+1248,26,033,Michigan,Chippewa
+1249,26,035,Michigan,Clare
+1250,26,037,Michigan,Clinton
+1251,26,039,Michigan,Crawford
+1252,26,041,Michigan,Delta
+1253,26,043,Michigan,Dickinson
+1254,26,045,Michigan,Eaton
+1255,26,047,Michigan,Emmet
+1256,26,049,Michigan,Genesee
+1257,26,051,Michigan,Gladwin
+1258,26,053,Michigan,Gogebic
+1259,26,055,Michigan,Grand Traverse
+1260,26,057,Michigan,Gratiot
+1261,26,059,Michigan,Hillsdale
+1262,26,061,Michigan,Houghton
+1263,26,063,Michigan,Huron
+1264,26,065,Michigan,Ingham
+1265,26,067,Michigan,Ionia
+1266,26,069,Michigan,Iosco
+1267,26,071,Michigan,Iron
+1268,26,073,Michigan,Isabella
+1269,26,075,Michigan,Jackson
+1270,26,077,Michigan,Kalamazoo
+1271,26,079,Michigan,Kalkaska
+1272,26,081,Michigan,Kent
+1273,26,083,Michigan,Keweenaw
+1274,26,085,Michigan,Lake
+1275,26,087,Michigan,Lapeer
+1276,26,089,Michigan,Leelanau
+1277,26,091,Michigan,Lenawee
+1278,26,093,Michigan,Livingston
+1279,26,095,Michigan,Luce
+1280,26,097,Michigan,Mackinac
+1281,26,099,Michigan,Macomb
+1282,26,101,Michigan,Manistee
+1283,26,103,Michigan,Marquette
+1284,26,105,Michigan,Mason
+1285,26,107,Michigan,Mecosta
+1286,26,109,Michigan,Menominee
+1287,26,111,Michigan,Midland
+1288,26,113,Michigan,Missaukee
+1289,26,115,Michigan,Monroe
+1290,26,117,Michigan,Montcalm
+1291,26,119,Michigan,Montmorency
+1292,26,121,Michigan,Muskegon
+1293,26,123,Michigan,Newaygo
+1294,26,125,Michigan,Oakland
+1295,26,127,Michigan,Oceana
+1296,26,129,Michigan,Ogemaw
+1297,26,131,Michigan,Ontonagon
+1298,26,133,Michigan,Osceola
+1299,26,135,Michigan,Oscoda
+1300,26,137,Michigan,Otsego
+1301,26,139,Michigan,Ottawa
+1302,26,141,Michigan,Presque Isle
+1303,26,143,Michigan,Roscommon
+1304,26,145,Michigan,Saginaw
+1305,26,147,Michigan,St. Clair
+1306,26,149,Michigan,St. Joseph
+1307,26,151,Michigan,Sanilac
+1308,26,153,Michigan,Schoolcraft
+1309,26,155,Michigan,Shiawassee
+1310,26,157,Michigan,Tuscola
+1311,26,159,Michigan,Van Buren
+1312,26,161,Michigan,Washtenaw
+1313,26,163,Michigan,Wayne
+1314,26,165,Michigan,Wexford
+1315,27,001,Minnesota,Aitkin
+1316,27,003,Minnesota,Anoka
+1317,27,005,Minnesota,Becker
+1318,27,007,Minnesota,Beltrami
+1319,27,009,Minnesota,Benton
+1320,27,011,Minnesota,Big Stone
+1321,27,013,Minnesota,Blue Earth
+1322,27,015,Minnesota,Brown
+1323,27,017,Minnesota,Carlton
+1324,27,019,Minnesota,Carver
+1325,27,021,Minnesota,Cass
+1326,27,023,Minnesota,Chippewa
+1327,27,025,Minnesota,Chisago
+1328,27,027,Minnesota,Clay
+1329,27,029,Minnesota,Clearwater
+1330,27,031,Minnesota,Cook
+1331,27,033,Minnesota,Cottonwood
+1332,27,035,Minnesota,Crow Wing
+1333,27,037,Minnesota,Dakota
+1334,27,039,Minnesota,Dodge
+1335,27,041,Minnesota,Douglas
+1336,27,043,Minnesota,Faribault
+1337,27,045,Minnesota,Fillmore
+1338,27,047,Minnesota,Freeborn
+1339,27,049,Minnesota,Goodhue
+1340,27,051,Minnesota,Grant
+1341,27,053,Minnesota,Hennepin
+1342,27,055,Minnesota,Houston
+1343,27,057,Minnesota,Hubbard
+1344,27,059,Minnesota,Isanti
+1345,27,061,Minnesota,Itasca
+1346,27,063,Minnesota,Jackson
+1347,27,065,Minnesota,Kanabec
+1348,27,067,Minnesota,Kandiyohi
+1349,27,069,Minnesota,Kittson
+1350,27,071,Minnesota,Koochiching
+1351,27,073,Minnesota,Lac qui Parle
+1352,27,075,Minnesota,Lake
+1353,27,077,Minnesota,Lake of the Woods
+1354,27,079,Minnesota,Le Sueur
+1355,27,081,Minnesota,Lincoln
+1356,27,083,Minnesota,Lyon
+1357,27,085,Minnesota,McLeod
+1358,27,087,Minnesota,Mahnomen
+1359,27,089,Minnesota,Marshall
+1360,27,091,Minnesota,Martin
+1361,27,093,Minnesota,Meeker
+1362,27,095,Minnesota,Mille Lacs
+1363,27,097,Minnesota,Morrison
+1364,27,099,Minnesota,Mower
+1365,27,101,Minnesota,Murray
+1366,27,103,Minnesota,Nicollet
+1367,27,105,Minnesota,Nobles
+1368,27,107,Minnesota,Norman
+1369,27,109,Minnesota,Olmsted
+1370,27,111,Minnesota,Otter Tail
+1371,27,113,Minnesota,Pennington
+1372,27,115,Minnesota,Pine
+1373,27,117,Minnesota,Pipestone
+1374,27,119,Minnesota,Polk
+1375,27,121,Minnesota,Pope
+1376,27,123,Minnesota,Ramsey
+1377,27,125,Minnesota,Red Lake
+1378,27,127,Minnesota,Redwood
+1379,27,129,Minnesota,Renville
+1380,27,131,Minnesota,Rice
+1381,27,133,Minnesota,Rock
+1382,27,135,Minnesota,Roseau
+1383,27,137,Minnesota,St. Louis
+1384,27,139,Minnesota,Scott
+1385,27,141,Minnesota,Sherburne
+1386,27,143,Minnesota,Sibley
+1387,27,145,Minnesota,Stearns
+1388,27,147,Minnesota,Steele
+1389,27,149,Minnesota,Stevens
+1390,27,151,Minnesota,Swift
+1391,27,153,Minnesota,Todd
+1392,27,155,Minnesota,Traverse
+1393,27,157,Minnesota,Wabasha
+1394,27,159,Minnesota,Wadena
+1395,27,161,Minnesota,Waseca
+1396,27,163,Minnesota,Washington
+1397,27,165,Minnesota,Watonwan
+1398,27,167,Minnesota,Wilkin
+1399,27,169,Minnesota,Winona
+1400,27,171,Minnesota,Wright
+1401,27,173,Minnesota,Yellow Medicine
+1402,28,001,Mississippi,Adams
+1403,28,003,Mississippi,Alcorn
+1404,28,005,Mississippi,Amite
+1405,28,007,Mississippi,Attala
+1406,28,009,Mississippi,Benton
+1407,28,011,Mississippi,Bolivar
+1408,28,013,Mississippi,Calhoun
+1409,28,015,Mississippi,Carroll
+1410,28,017,Mississippi,Chickasaw
+1411,28,019,Mississippi,Choctaw
+1412,28,021,Mississippi,Claiborne
+1413,28,023,Mississippi,Clarke
+1414,28,025,Mississippi,Clay
+1415,28,027,Mississippi,Coahoma
+1416,28,029,Mississippi,Copiah
+1417,28,031,Mississippi,Covington
+1418,28,033,Mississippi,DeSoto
+1419,28,035,Mississippi,Forrest
+1420,28,037,Mississippi,Franklin
+1421,28,039,Mississippi,George
+1422,28,041,Mississippi,Greene
+1423,28,043,Mississippi,Grenada
+1424,28,045,Mississippi,Hancock
+1425,28,047,Mississippi,Harrison
+1426,28,049,Mississippi,Hinds
+1427,28,051,Mississippi,Holmes
+1428,28,053,Mississippi,Humphreys
+1429,28,055,Mississippi,Issaquena
+1430,28,057,Mississippi,Itawamba
+1431,28,059,Mississippi,Jackson
+1432,28,061,Mississippi,Jasper
+1433,28,063,Mississippi,Jefferson
+1434,28,065,Mississippi,Jefferson Davis
+1435,28,067,Mississippi,Jones
+1436,28,069,Mississippi,Kemper
+1437,28,071,Mississippi,Lafayette
+1438,28,073,Mississippi,Lamar
+1439,28,075,Mississippi,Lauderdale
+1440,28,077,Mississippi,Lawrence
+1441,28,079,Mississippi,Leake
+1442,28,081,Mississippi,Lee
+1443,28,083,Mississippi,Leflore
+1444,28,085,Mississippi,Lincoln
+1445,28,087,Mississippi,Lowndes
+1446,28,089,Mississippi,Madison
+1447,28,091,Mississippi,Marion
+1448,28,093,Mississippi,Marshall
+1449,28,095,Mississippi,Monroe
+1450,28,097,Mississippi,Montgomery
+1451,28,099,Mississippi,Neshoba
+1452,28,101,Mississippi,Newton
+1453,28,103,Mississippi,Noxubee
+1454,28,105,Mississippi,Oktibbeha
+1455,28,107,Mississippi,Panola
+1456,28,109,Mississippi,Pearl River
+1457,28,111,Mississippi,Perry
+1458,28,113,Mississippi,Pike
+1459,28,115,Mississippi,Pontotoc
+1460,28,117,Mississippi,Prentiss
+1461,28,119,Mississippi,Quitman
+1462,28,121,Mississippi,Rankin
+1463,28,123,Mississippi,Scott
+1464,28,125,Mississippi,Sharkey
+1465,28,127,Mississippi,Simpson
+1466,28,129,Mississippi,Smith
+1467,28,131,Mississippi,Stone
+1468,28,133,Mississippi,Sunflower
+1469,28,135,Mississippi,Tallahatchie
+1470,28,137,Mississippi,Tate
+1471,28,139,Mississippi,Tippah
+1472,28,141,Mississippi,Tishomingo
+1473,28,143,Mississippi,Tunica
+1474,28,145,Mississippi,Union
+1475,28,147,Mississippi,Walthall
+1476,28,149,Mississippi,Warren
+1477,28,151,Mississippi,Washington
+1478,28,153,Mississippi,Wayne
+1479,28,155,Mississippi,Webster
+1480,28,157,Mississippi,Wilkinson
+1481,28,159,Mississippi,Winston
+1482,28,161,Mississippi,Yalobusha
+1483,28,163,Mississippi,Yazoo
+1484,29,001,Missouri,Adair
+1485,29,003,Missouri,Andrew
+1486,29,005,Missouri,Atchison
+1487,29,007,Missouri,Audrain
+1488,29,009,Missouri,Barry
+1489,29,011,Missouri,Barton
+1490,29,013,Missouri,Bates
+1491,29,015,Missouri,Benton
+1492,29,017,Missouri,Bollinger
+1493,29,019,Missouri,Boone
+1494,29,021,Missouri,Buchanan
+1495,29,023,Missouri,Butler
+1496,29,025,Missouri,Caldwell
+1497,29,027,Missouri,Callaway
+1498,29,029,Missouri,Camden
+1499,29,031,Missouri,Cape Girardeau
+1500,29,033,Missouri,Carroll
+1501,29,035,Missouri,Carter
+1502,29,037,Missouri,Cass
+1503,29,039,Missouri,Cedar
+1504,29,041,Missouri,Chariton
+1505,29,043,Missouri,Christian
+1506,29,045,Missouri,Clark
+1507,29,047,Missouri,Clay
+1508,29,049,Missouri,Clinton
+1509,29,051,Missouri,Cole
+1510,29,053,Missouri,Cooper
+1511,29,055,Missouri,Crawford
+1512,29,057,Missouri,Dade
+1513,29,059,Missouri,Dallas
+1514,29,061,Missouri,Daviess
+1515,29,063,Missouri,DeKalb
+1516,29,065,Missouri,Dent
+1517,29,067,Missouri,Douglas
+1518,29,069,Missouri,Dunklin
+1519,29,071,Missouri,Franklin
+1520,29,073,Missouri,Gasconade
+1521,29,075,Missouri,Gentry
+1522,29,077,Missouri,Greene
+1523,29,079,Missouri,Grundy
+1524,29,081,Missouri,Harrison
+1525,29,083,Missouri,Henry
+1526,29,085,Missouri,Hickory
+1527,29,087,Missouri,Holt
+1528,29,089,Missouri,Howard
+1529,29,091,Missouri,Howell
+1530,29,093,Missouri,Iron
+1531,29,095,Missouri,Jackson
+1532,29,097,Missouri,Jasper
+1533,29,099,Missouri,Jefferson
+1534,29,101,Missouri,Johnson
+1535,29,103,Missouri,Knox
+1536,29,105,Missouri,Laclede
+1537,29,107,Missouri,Lafayette
+1538,29,109,Missouri,Lawrence
+1539,29,111,Missouri,Lewis
+1540,29,113,Missouri,Lincoln
+1541,29,115,Missouri,Linn
+1542,29,117,Missouri,Livingston
+1543,29,119,Missouri,McDonald
+1544,29,121,Missouri,Macon
+1545,29,123,Missouri,Madison
+1546,29,125,Missouri,Maries
+1547,29,127,Missouri,Marion
+1548,29,129,Missouri,Mercer
+1549,29,131,Missouri,Miller
+1550,29,133,Missouri,Mississippi
+1551,29,135,Missouri,Moniteau
+1552,29,137,Missouri,Monroe
+1553,29,139,Missouri,Montgomery
+1554,29,141,Missouri,Morgan
+1555,29,143,Missouri,New Madrid
+1556,29,145,Missouri,Newton
+1557,29,147,Missouri,Nodaway
+1558,29,149,Missouri,Oregon
+1559,29,151,Missouri,Osage
+1560,29,153,Missouri,Ozark
+1561,29,155,Missouri,Pemiscot
+1562,29,157,Missouri,Perry
+1563,29,159,Missouri,Pettis
+1564,29,161,Missouri,Phelps
+1565,29,163,Missouri,Pike
+1566,29,165,Missouri,Platte
+1567,29,167,Missouri,Polk
+1568,29,169,Missouri,Pulaski
+1569,29,171,Missouri,Putnam
+1570,29,173,Missouri,Ralls
+1571,29,175,Missouri,Randolph
+1572,29,177,Missouri,Ray
+1573,29,179,Missouri,Reynolds
+1574,29,181,Missouri,Ripley
+1575,29,183,Missouri,St. Charles
+1576,29,185,Missouri,St. Clair
+1577,29,186,Missouri,Ste. Genevieve
+1578,29,187,Missouri,St. Francois
+1579,29,189,Missouri,St. Louis
+1580,29,195,Missouri,Saline
+1581,29,197,Missouri,Schuyler
+1582,29,199,Missouri,Scotland
+1583,29,201,Missouri,Scott
+1584,29,203,Missouri,Shannon
+1585,29,205,Missouri,Shelby
+1586,29,207,Missouri,Stoddard
+1587,29,209,Missouri,Stone
+1588,29,211,Missouri,Sullivan
+1589,29,213,Missouri,Taney
+1590,29,215,Missouri,Texas
+1591,29,217,Missouri,Vernon
+1592,29,219,Missouri,Warren
+1593,29,221,Missouri,Washington
+1594,29,223,Missouri,Wayne
+1595,29,225,Missouri,Webster
+1596,29,227,Missouri,Worth
+1597,29,229,Missouri,Wright
+1598,29,510,Missouri,St. Louis
+1599,30,001,Montana,Beaverhead
+1600,30,003,Montana,Big Horn
+1601,30,005,Montana,Blaine
+1602,30,007,Montana,Broadwater
+1603,30,009,Montana,Carbon
+1604,30,011,Montana,Carter
+1605,30,013,Montana,Cascade
+1606,30,015,Montana,Chouteau
+1607,30,017,Montana,Custer
+1608,30,019,Montana,Daniels
+1609,30,021,Montana,Dawson
+1610,30,023,Montana,Deer Lodge
+1611,30,025,Montana,Fallon
+1612,30,027,Montana,Fergus
+1613,30,029,Montana,Flathead
+1614,30,031,Montana,Gallatin
+1615,30,033,Montana,Garfield
+1616,30,035,Montana,Glacier
+1617,30,037,Montana,Golden Valley
+1618,30,039,Montana,Granite
+1619,30,041,Montana,Hill
+1620,30,043,Montana,Jefferson
+1621,30,045,Montana,Judith Basin
+1622,30,047,Montana,Lake
+1623,30,049,Montana,Lewis and Clark
+1624,30,051,Montana,Liberty
+1625,30,053,Montana,Lincoln
+1626,30,055,Montana,McCone
+1627,30,057,Montana,Madison
+1628,30,059,Montana,Meagher
+1629,30,061,Montana,Mineral
+1630,30,063,Montana,Missoula
+1631,30,065,Montana,Musselshell
+1632,30,067,Montana,Park
+1633,30,069,Montana,Petroleum
+1634,30,071,Montana,Phillips
+1635,30,073,Montana,Pondera
+1636,30,075,Montana,Powder River
+1637,30,077,Montana,Powell
+1638,30,079,Montana,Prairie
+1639,30,081,Montana,Ravalli
+1640,30,083,Montana,Richland
+1641,30,085,Montana,Roosevelt
+1642,30,087,Montana,Rosebud
+1643,30,089,Montana,Sanders
+1644,30,091,Montana,Sheridan
+1645,30,093,Montana,Silver Bow
+1646,30,095,Montana,Stillwater
+1647,30,097,Montana,Sweet Grass
+1648,30,099,Montana,Teton
+1649,30,101,Montana,Toole
+1650,30,103,Montana,Treasure
+1651,30,105,Montana,Valley
+1652,30,107,Montana,Wheatland
+1653,30,109,Montana,Wibaux
+1654,30,111,Montana,Yellowstone
+1655,31,001,Nebraska,Adams
+1656,31,003,Nebraska,Antelope
+1657,31,005,Nebraska,Arthur
+1658,31,007,Nebraska,Banner
+1659,31,009,Nebraska,Blaine
+1660,31,011,Nebraska,Boone
+1661,31,013,Nebraska,Box Butte
+1662,31,015,Nebraska,Boyd
+1663,31,017,Nebraska,Brown
+1664,31,019,Nebraska,Buffalo
+1665,31,021,Nebraska,Burt
+1666,31,023,Nebraska,Butler
+1667,31,025,Nebraska,Cass
+1668,31,027,Nebraska,Cedar
+1669,31,029,Nebraska,Chase
+1670,31,031,Nebraska,Cherry
+1671,31,033,Nebraska,Cheyenne
+1672,31,035,Nebraska,Clay
+1673,31,037,Nebraska,Colfax
+1674,31,039,Nebraska,Cuming
+1675,31,041,Nebraska,Custer
+1676,31,043,Nebraska,Dakota
+1677,31,045,Nebraska,Dawes
+1678,31,047,Nebraska,Dawson
+1679,31,049,Nebraska,Deuel
+1680,31,051,Nebraska,Dixon
+1681,31,053,Nebraska,Dodge
+1682,31,055,Nebraska,Douglas
+1683,31,057,Nebraska,Dundy
+1684,31,059,Nebraska,Fillmore
+1685,31,061,Nebraska,Franklin
+1686,31,063,Nebraska,Frontier
+1687,31,065,Nebraska,Furnas
+1688,31,067,Nebraska,Gage
+1689,31,069,Nebraska,Garden
+1690,31,071,Nebraska,Garfield
+1691,31,073,Nebraska,Gosper
+1692,31,075,Nebraska,Grant
+1693,31,077,Nebraska,Greeley
+1694,31,079,Nebraska,Hall
+1695,31,081,Nebraska,Hamilton
+1696,31,083,Nebraska,Harlan
+1697,31,085,Nebraska,Hayes
+1698,31,087,Nebraska,Hitchcock
+1699,31,089,Nebraska,Holt
+1700,31,091,Nebraska,Hooker
+1701,31,093,Nebraska,Howard
+1702,31,095,Nebraska,Jefferson
+1703,31,097,Nebraska,Johnson
+1704,31,099,Nebraska,Kearney
+1705,31,101,Nebraska,Keith
+1706,31,103,Nebraska,Keya Paha
+1707,31,105,Nebraska,Kimball
+1708,31,107,Nebraska,Knox
+1709,31,109,Nebraska,Lancaster
+1710,31,111,Nebraska,Lincoln
+1711,31,113,Nebraska,Logan
+1712,31,115,Nebraska,Loup
+1713,31,117,Nebraska,McPherson
+1714,31,119,Nebraska,Madison
+1715,31,121,Nebraska,Merrick
+1716,31,123,Nebraska,Morrill
+1717,31,125,Nebraska,Nance
+1718,31,127,Nebraska,Nemaha
+1719,31,129,Nebraska,Nuckolls
+1720,31,131,Nebraska,Otoe
+1721,31,133,Nebraska,Pawnee
+1722,31,135,Nebraska,Perkins
+1723,31,137,Nebraska,Phelps
+1724,31,139,Nebraska,Pierce
+1725,31,141,Nebraska,Platte
+1726,31,143,Nebraska,Polk
+1727,31,145,Nebraska,Red Willow
+1728,31,147,Nebraska,Richardson
+1729,31,149,Nebraska,Rock
+1730,31,151,Nebraska,Saline
+1731,31,153,Nebraska,Sarpy
+1732,31,155,Nebraska,Saunders
+1733,31,157,Nebraska,Scotts Bluff
+1734,31,159,Nebraska,Seward
+1735,31,161,Nebraska,Sheridan
+1736,31,163,Nebraska,Sherman
+1737,31,165,Nebraska,Sioux
+1738,31,167,Nebraska,Stanton
+1739,31,169,Nebraska,Thayer
+1740,31,171,Nebraska,Thomas
+1741,31,173,Nebraska,Thurston
+1742,31,175,Nebraska,Valley
+1743,31,177,Nebraska,Washington
+1744,31,179,Nebraska,Wayne
+1745,31,181,Nebraska,Webster
+1746,31,183,Nebraska,Wheeler
+1747,31,185,Nebraska,York
+1748,32,001,Nevada,Churchill
+1749,32,003,Nevada,Clark
+1750,32,005,Nevada,Douglas
+1751,32,007,Nevada,Elko
+1752,32,009,Nevada,Esmeralda
+1753,32,011,Nevada,Eureka
+1754,32,013,Nevada,Humboldt
+1755,32,015,Nevada,Lander
+1756,32,017,Nevada,Lincoln
+1757,32,019,Nevada,Lyon
+1758,32,021,Nevada,Mineral
+1759,32,023,Nevada,Nye
+1760,32,027,Nevada,Pershing
+1761,32,029,Nevada,Storey
+1762,32,031,Nevada,Washoe
+1763,32,033,Nevada,White Pine
+1764,32,510,Nevada,Carson City
+1765,33,001,New Hampshire,Belknap
+1766,33,003,New Hampshire,Carroll
+1767,33,005,New Hampshire,Cheshire
+1768,33,007,New Hampshire,Coos
+1769,33,009,New Hampshire,Grafton
+1770,33,011,New Hampshire,Hillsborough
+1771,33,013,New Hampshire,Merrimack
+1772,33,015,New Hampshire,Rockingham
+1773,33,017,New Hampshire,Strafford
+1774,33,019,New Hampshire,Sullivan
+1775,34,001,New Jersey,Atlantic
+1776,34,003,New Jersey,Bergen
+1777,34,005,New Jersey,Burlington
+1778,34,007,New Jersey,Camden
+1779,34,009,New Jersey,Cape May
+1780,34,011,New Jersey,Cumberland
+1781,34,013,New Jersey,Essex
+1782,34,015,New Jersey,Gloucester
+1783,34,017,New Jersey,Hudson
+1784,34,019,New Jersey,Hunterdon
+1785,34,021,New Jersey,Mercer
+1786,34,023,New Jersey,Middlesex
+1787,34,025,New Jersey,Monmouth
+1788,34,027,New Jersey,Morris
+1789,34,029,New Jersey,Ocean
+1790,34,031,New Jersey,Passaic
+1791,34,033,New Jersey,Salem
+1792,34,035,New Jersey,Somerset
+1793,34,037,New Jersey,Sussex
+1794,34,039,New Jersey,Union
+1795,34,041,New Jersey,Warren
+1796,35,001,New Mexico,Bernalillo
+1797,35,003,New Mexico,Catron
+1798,35,005,New Mexico,Chaves
+1799,35,006,New Mexico,Cibola
+1800,35,007,New Mexico,Colfax
+1801,35,009,New Mexico,Curry
+1802,35,011,New Mexico,De Baca
+1803,35,013,New Mexico,Doña Ana
+1804,35,015,New Mexico,Eddy
+1805,35,017,New Mexico,Grant
+1806,35,019,New Mexico,Guadalupe
+1807,35,021,New Mexico,Harding
+1808,35,023,New Mexico,Hidalgo
+1809,35,025,New Mexico,Lea
+1810,35,027,New Mexico,Lincoln
+1811,35,028,New Mexico,Los Alamos
+1812,35,029,New Mexico,Luna
+1813,35,031,New Mexico,McKinley
+1814,35,033,New Mexico,Mora
+1815,35,035,New Mexico,Otero
+1816,35,037,New Mexico,Quay
+1817,35,039,New Mexico,Rio Arriba
+1818,35,041,New Mexico,Roosevelt
+1819,35,043,New Mexico,Sandoval
+1820,35,045,New Mexico,San Juan
+1821,35,047,New Mexico,San Miguel
+1822,35,049,New Mexico,Santa Fe
+1823,35,051,New Mexico,Sierra
+1824,35,053,New Mexico,Socorro
+1825,35,055,New Mexico,Taos
+1826,35,057,New Mexico,Torrance
+1827,35,059,New Mexico,Union
+1828,35,061,New Mexico,Valencia
+1829,36,001,New York,Albany
+1830,36,003,New York,Allegany
+1831,36,005,New York,Bronx *
+1832,36,007,New York,Broome
+1833,36,009,New York,Cattaraugus
+1834,36,011,New York,Cayuga
+1835,36,013,New York,Chautauqua
+1836,36,015,New York,Chemung
+1837,36,017,New York,Chenango
+1838,36,019,New York,Clinton
+1839,36,021,New York,Columbia
+1840,36,023,New York,Cortland
+1841,36,025,New York,Delaware
+1842,36,027,New York,Dutchess
+1843,36,029,New York,Erie
+1844,36,031,New York,Essex
+1845,36,033,New York,Franklin
+1846,36,035,New York,Fulton
+1847,36,037,New York,Genesee
+1848,36,039,New York,Greene
+1849,36,041,New York,Hamilton
+1850,36,043,New York,Herkimer
+1851,36,045,New York,Jefferson
+1852,36,047,New York,Kings
+1853,36,049,New York,Lewis
+1854,36,051,New York,Livingston
+1855,36,053,New York,Madison
+1856,36,055,New York,Monroe
+1857,36,057,New York,Montgomery
+1858,36,059,New York,Nassau
+1859,36,061,New York,New York
+1860,36,063,New York,Niagara
+1861,36,065,New York,Oneida
+1862,36,067,New York,Onondaga
+1863,36,069,New York,Ontario
+1864,36,071,New York,Orange
+1865,36,073,New York,Orleans
+1866,36,075,New York,Oswego
+1867,36,077,New York,Otsego
+1868,36,079,New York,Putnam
+1869,36,081,New York,Queens *
+1870,36,083,New York,Rensselaer
+1871,36,085,New York,Richmond
+1872,36,087,New York,Rockland
+1873,36,089,New York,St. Lawrence
+1874,36,091,New York,Saratoga
+1875,36,093,New York,Schenectady
+1876,36,095,New York,Schoharie
+1877,36,097,New York,Schuyler
+1878,36,099,New York,Seneca
+1879,36,101,New York,Steuben
+1880,36,103,New York,Suffolk
+1881,36,105,New York,Sullivan
+1882,36,107,New York,Tioga
+1883,36,109,New York,Tompkins
+1884,36,111,New York,Ulster
+1885,36,113,New York,Warren
+1886,36,115,New York,Washington
+1887,36,117,New York,Wayne
+1888,36,119,New York,Westchester
+1889,36,121,New York,Wyoming
+1890,36,123,New York,Yates
+1891,37,001,North Carolina,Alamance
+1892,37,003,North Carolina,Alexander
+1893,37,005,North Carolina,Alleghany
+1894,37,007,North Carolina,Anson
+1895,37,009,North Carolina,Ashe
+1896,37,011,North Carolina,Avery
+1897,37,013,North Carolina,Beaufort
+1898,37,015,North Carolina,Bertie
+1899,37,017,North Carolina,Bladen
+1900,37,019,North Carolina,Brunswick
+1901,37,021,North Carolina,Buncombe
+1902,37,023,North Carolina,Burke
+1903,37,025,North Carolina,Cabarrus
+1904,37,027,North Carolina,Caldwell
+1905,37,029,North Carolina,Camden
+1906,37,031,North Carolina,Carteret
+1907,37,033,North Carolina,Caswell
+1908,37,035,North Carolina,Catawba
+1909,37,037,North Carolina,Chatham
+1910,37,039,North Carolina,Cherokee
+1911,37,041,North Carolina,Chowan
+1912,37,043,North Carolina,Clay
+1913,37,045,North Carolina,Cleveland
+1914,37,047,North Carolina,Columbus
+1915,37,049,North Carolina,Craven
+1916,37,051,North Carolina,Cumberland
+1917,37,053,North Carolina,Currituck
+1918,37,055,North Carolina,Dare
+1919,37,057,North Carolina,Davidson
+1920,37,059,North Carolina,Davie
+1921,37,061,North Carolina,Duplin
+1922,37,063,North Carolina,Durham
+1923,37,065,North Carolina,Edgecombe
+1924,37,067,North Carolina,Forsyth
+1925,37,069,North Carolina,Franklin
+1926,37,071,North Carolina,Gaston
+1927,37,073,North Carolina,Gates
+1928,37,075,North Carolina,Graham
+1929,37,077,North Carolina,Granville
+1930,37,079,North Carolina,Greene
+1931,37,081,North Carolina,Guilford
+1932,37,083,North Carolina,Halifax
+1933,37,085,North Carolina,Harnett
+1934,37,087,North Carolina,Haywood
+1935,37,089,North Carolina,Henderson
+1936,37,091,North Carolina,Hertford
+1937,37,093,North Carolina,Hoke
+1938,37,095,North Carolina,Hyde
+1939,37,097,North Carolina,Iredell
+1940,37,099,North Carolina,Jackson
+1941,37,101,North Carolina,Johnston
+1942,37,103,North Carolina,Jones
+1943,37,105,North Carolina,Lee
+1944,37,107,North Carolina,Lenoir
+1945,37,109,North Carolina,Lincoln
+1946,37,111,North Carolina,McDowell
+1947,37,113,North Carolina,Macon
+1948,37,115,North Carolina,Madison
+1949,37,117,North Carolina,Martin
+1950,37,119,North Carolina,Mecklenburg
+1951,37,121,North Carolina,Mitchell
+1952,37,123,North Carolina,Montgomery
+1953,37,125,North Carolina,Moore
+1954,37,127,North Carolina,Nash
+1955,37,129,North Carolina,New Hanover
+1956,37,131,North Carolina,Northampton
+1957,37,133,North Carolina,Onslow
+1958,37,135,North Carolina,Orange
+1959,37,137,North Carolina,Pamlico
+1960,37,139,North Carolina,Pasquotank
+1961,37,141,North Carolina,Pender
+1962,37,143,North Carolina,Perquimans
+1963,37,145,North Carolina,Person
+1964,37,147,North Carolina,Pitt
+1965,37,149,North Carolina,Polk
+1966,37,151,North Carolina,Randolph
+1967,37,153,North Carolina,Richmond
+1968,37,155,North Carolina,Robeson
+1969,37,157,North Carolina,Rockingham
+1970,37,159,North Carolina,Rowan
+1971,37,161,North Carolina,Rutherford
+1972,37,163,North Carolina,Sampson
+1973,37,165,North Carolina,Scotland
+1974,37,167,North Carolina,Stanly
+1975,37,169,North Carolina,Stokes
+1976,37,171,North Carolina,Surry
+1977,37,173,North Carolina,Swain
+1978,37,175,North Carolina,Transylvania
+1979,37,177,North Carolina,Tyrrell
+1980,37,179,North Carolina,Union
+1981,37,181,North Carolina,Vance
+1982,37,183,North Carolina,Wake
+1983,37,185,North Carolina,Warren
+1984,37,187,North Carolina,Washington
+1985,37,189,North Carolina,Watauga
+1986,37,191,North Carolina,Wayne
+1987,37,193,North Carolina,Wilkes
+1988,37,195,North Carolina,Wilson
+1989,37,197,North Carolina,Yadkin
+1990,37,199,North Carolina,Yancey
+1991,38,001,North Dakota,Adams
+1992,38,003,North Dakota,Barnes
+1993,38,005,North Dakota,Benson
+1994,38,007,North Dakota,Billings
+1995,38,009,North Dakota,Bottineau
+1996,38,011,North Dakota,Bowman
+1997,38,013,North Dakota,Burke
+1998,38,015,North Dakota,Burleigh
+1999,38,017,North Dakota,Cass
+2000,38,019,North Dakota,Cavalier
+2001,38,021,North Dakota,Dickey
+2002,38,023,North Dakota,Divide
+2003,38,025,North Dakota,Dunn
+2004,38,027,North Dakota,Eddy
+2005,38,029,North Dakota,Emmons
+2006,38,031,North Dakota,Foster
+2007,38,033,North Dakota,Golden Valley
+2008,38,035,North Dakota,Grand Forks
+2009,38,037,North Dakota,Grant
+2010,38,039,North Dakota,Griggs
+2011,38,041,North Dakota,Hettinger
+2012,38,043,North Dakota,Kidder
+2013,38,045,North Dakota,LaMoure
+2014,38,047,North Dakota,Logan
+2015,38,049,North Dakota,McHenry
+2016,38,051,North Dakota,McIntosh
+2017,38,053,North Dakota,McKenzie
+2018,38,055,North Dakota,McLean
+2019,38,057,North Dakota,Mercer
+2020,38,059,North Dakota,Morton
+2021,38,061,North Dakota,Mountrail
+2022,38,063,North Dakota,Nelson
+2023,38,065,North Dakota,Oliver
+2024,38,067,North Dakota,Pembina
+2025,38,069,North Dakota,Pierce
+2026,38,071,North Dakota,Ramsey
+2027,38,073,North Dakota,Ransom
+2028,38,075,North Dakota,Renville
+2029,38,077,North Dakota,Richland
+2030,38,079,North Dakota,Rolette
+2031,38,081,North Dakota,Sargent
+2032,38,083,North Dakota,Sheridan
+2033,38,085,North Dakota,Sioux
+2034,38,087,North Dakota,Slope
+2035,38,089,North Dakota,Stark
+2036,38,091,North Dakota,Steele
+2037,38,093,North Dakota,Stutsman
+2038,38,095,North Dakota,Towner
+2039,38,097,North Dakota,Traill
+2040,38,099,North Dakota,Walsh
+2041,38,101,North Dakota,Ward
+2042,38,103,North Dakota,Wells
+2043,38,105,North Dakota,Williams
+2044,39,001,Ohio,Adams
+2045,39,003,Ohio,Allen
+2046,39,005,Ohio,Ashland
+2047,39,007,Ohio,Ashtabula
+2048,39,009,Ohio,Athens
+2049,39,011,Ohio,Auglaize
+2050,39,013,Ohio,Belmont
+2051,39,015,Ohio,Brown
+2052,39,017,Ohio,Butler
+2053,39,019,Ohio,Carroll
+2054,39,021,Ohio,Champaign
+2055,39,023,Ohio,Clark
+2056,39,025,Ohio,Clermont
+2057,39,027,Ohio,Clinton
+2058,39,029,Ohio,Columbiana
+2059,39,031,Ohio,Coshocton
+2060,39,033,Ohio,Crawford
+2061,39,035,Ohio,Cuyahoga
+2062,39,037,Ohio,Darke
+2063,39,039,Ohio,Defiance
+2064,39,041,Ohio,Delaware
+2065,39,043,Ohio,Erie
+2066,39,045,Ohio,Fairfield
+2067,39,047,Ohio,Fayette
+2068,39,049,Ohio,Franklin
+2069,39,051,Ohio,Fulton
+2070,39,053,Ohio,Gallia
+2071,39,055,Ohio,Geauga
+2072,39,057,Ohio,Greene
+2073,39,059,Ohio,Guernsey
+2074,39,061,Ohio,Hamilton
+2075,39,063,Ohio,Hancock
+2076,39,065,Ohio,Hardin
+2077,39,067,Ohio,Harrison
+2078,39,069,Ohio,Henry
+2079,39,071,Ohio,Highland
+2080,39,073,Ohio,Hocking
+2081,39,075,Ohio,Holmes
+2082,39,077,Ohio,Huron
+2083,39,079,Ohio,Jackson
+2084,39,081,Ohio,Jefferson
+2085,39,083,Ohio,Knox
+2086,39,085,Ohio,Lake
+2087,39,087,Ohio,Lawrence
+2088,39,089,Ohio,Licking
+2089,39,091,Ohio,Logan
+2090,39,093,Ohio,Lorain
+2091,39,095,Ohio,Lucas
+2092,39,097,Ohio,Madison
+2093,39,099,Ohio,Mahoning
+2094,39,101,Ohio,Marion
+2095,39,103,Ohio,Medina
+2096,39,105,Ohio,Meigs
+2097,39,107,Ohio,Mercer
+2098,39,109,Ohio,Miami
+2099,39,111,Ohio,Monroe
+2100,39,113,Ohio,Montgomery
+2101,39,115,Ohio,Morgan
+2102,39,117,Ohio,Morrow *
+2103,39,119,Ohio,Muskingum
+2104,39,121,Ohio,Noble
+2105,39,123,Ohio,Ottawa
+2106,39,125,Ohio,Paulding
+2107,39,127,Ohio,Perry
+2108,39,129,Ohio,Pickaway
+2109,39,131,Ohio,Pike
+2110,39,133,Ohio,Portage
+2111,39,135,Ohio,Preble
+2112,39,137,Ohio,Putnam
+2113,39,139,Ohio,Richland
+2114,39,141,Ohio,Ross
+2115,39,143,Ohio,Sandusky
+2116,39,145,Ohio,Scioto
+2117,39,147,Ohio,Seneca
+2118,39,149,Ohio,Shelby
+2119,39,151,Ohio,Stark
+2120,39,153,Ohio,Summit
+2121,39,155,Ohio,Trumbull
+2122,39,157,Ohio,Tuscarawas
+2123,39,159,Ohio,Union
+2124,39,161,Ohio,Van Wert
+2125,39,163,Ohio,Vinton
+2126,39,165,Ohio,Warren
+2127,39,167,Ohio,Washington
+2128,39,169,Ohio,Wayne
+2129,39,171,Ohio,Williams
+2130,39,173,Ohio,Wood
+2131,39,175,Ohio,Wyandot
+2132,40,001,Oklahoma,Adair
+2133,40,003,Oklahoma,Alfalfa
+2134,40,005,Oklahoma,Atoka
+2135,40,007,Oklahoma,Beaver
+2136,40,009,Oklahoma,Beckham
+2137,40,011,Oklahoma,Blaine
+2138,40,013,Oklahoma,Bryan
+2139,40,015,Oklahoma,Caddo
+2140,40,017,Oklahoma,Canadian
+2141,40,019,Oklahoma,Carter
+2142,40,021,Oklahoma,Cherokee
+2143,40,023,Oklahoma,Choctaw
+2144,40,025,Oklahoma,Cimarron
+2145,40,027,Oklahoma,Cleveland
+2146,40,029,Oklahoma,Coal
+2147,40,031,Oklahoma,Comanche
+2148,40,033,Oklahoma,Cotton
+2149,40,035,Oklahoma,Craig
+2150,40,037,Oklahoma,Creek
+2151,40,039,Oklahoma,Custer
+2152,40,041,Oklahoma,Delaware
+2153,40,043,Oklahoma,Dewey
+2154,40,045,Oklahoma,Ellis
+2155,40,047,Oklahoma,Garfield
+2156,40,049,Oklahoma,Garvin
+2157,40,051,Oklahoma,Grady
+2158,40,053,Oklahoma,Grant
+2159,40,055,Oklahoma,Greer
+2160,40,057,Oklahoma,Harmon
+2161,40,059,Oklahoma,Harper
+2162,40,061,Oklahoma,Haskell
+2163,40,063,Oklahoma,Hughes
+2164,40,065,Oklahoma,Jackson
+2165,40,067,Oklahoma,Jefferson
+2166,40,069,Oklahoma,Johnston
+2167,40,071,Oklahoma,Kay
+2168,40,073,Oklahoma,Kingfisher
+2169,40,075,Oklahoma,Kiowa
+2170,40,077,Oklahoma,Latimer
+2171,40,079,Oklahoma,Le Flore
+2172,40,081,Oklahoma,Lincoln
+2173,40,083,Oklahoma,Logan
+2174,40,085,Oklahoma,Love
+2175,40,087,Oklahoma,McClain
+2176,40,089,Oklahoma,McCurtain
+2177,40,091,Oklahoma,McIntosh
+2178,40,093,Oklahoma,Major
+2179,40,095,Oklahoma,Marshall
+2180,40,097,Oklahoma,Mayes
+2181,40,099,Oklahoma,Murray
+2182,40,101,Oklahoma,Muskogee
+2183,40,103,Oklahoma,Noble
+2184,40,105,Oklahoma,Nowata
+2185,40,107,Oklahoma,Okfuskee
+2186,40,109,Oklahoma,Oklahoma
+2187,40,111,Oklahoma,Okmulgee
+2188,40,113,Oklahoma,Osage
+2189,40,115,Oklahoma,Ottawa
+2190,40,117,Oklahoma,Pawnee
+2191,40,119,Oklahoma,Payne
+2192,40,121,Oklahoma,Pittsburg
+2193,40,123,Oklahoma,Pontotoc
+2194,40,125,Oklahoma,Pottawatomie
+2195,40,127,Oklahoma,Pushmataha
+2196,40,129,Oklahoma,Roger Mills
+2197,40,131,Oklahoma,Rogers
+2198,40,133,Oklahoma,Seminole
+2199,40,135,Oklahoma,Sequoyah
+2200,40,137,Oklahoma,Stephens
+2201,40,139,Oklahoma,Texas
+2202,40,141,Oklahoma,Tillman
+2203,40,143,Oklahoma,Tulsa
+2204,40,145,Oklahoma,Wagoner
+2205,40,147,Oklahoma,Washington
+2206,40,149,Oklahoma,Washita
+2207,40,151,Oklahoma,Woods
+2208,40,153,Oklahoma,Woodward
+2209,41,001,Oregon,Baker
+2210,41,003,Oregon,Benton
+2211,41,005,Oregon,Clackamas
+2212,41,007,Oregon,Clatsop
+2213,41,009,Oregon,Columbia
+2214,41,011,Oregon,Coos
+2215,41,013,Oregon,Crook
+2216,41,015,Oregon,Curry
+2217,41,017,Oregon,Deschutes
+2218,41,019,Oregon,Douglas
+2219,41,021,Oregon,Gilliam
+2220,41,023,Oregon,Grant
+2221,41,025,Oregon,Harney
+2222,41,027,Oregon,Hood River
+2223,41,029,Oregon,Jackson
+2224,41,031,Oregon,Jefferson
+2225,41,033,Oregon,Josephine
+2226,41,035,Oregon,Klamath
+2227,41,037,Oregon,Lake
+2228,41,039,Oregon,Lane
+2229,41,041,Oregon,Lincoln
+2230,41,043,Oregon,Linn
+2231,41,045,Oregon,Malheur
+2232,41,047,Oregon,Marion
+2233,41,049,Oregon,Morrow
+2234,41,051,Oregon,Multnomah
+2235,41,053,Oregon,Polk
+2236,41,055,Oregon,Sherman
+2237,41,057,Oregon,Tillamook
+2238,41,059,Oregon,Umatilla
+2239,41,061,Oregon,Union
+2240,41,063,Oregon,Wallowa
+2241,41,065,Oregon,Wasco
+2242,41,067,Oregon,Washington
+2243,41,069,Oregon,Wheeler
+2244,41,071,Oregon,Yamhill
+2245,42,001,Pennsylvania,Adams
+2246,42,003,Pennsylvania,Allegheny
+2247,42,005,Pennsylvania,Armstrong
+2248,42,007,Pennsylvania,Beaver
+2249,42,009,Pennsylvania,Bedford
+2250,42,011,Pennsylvania,Berks
+2251,42,013,Pennsylvania,Blair
+2252,42,015,Pennsylvania,Bradford
+2253,42,017,Pennsylvania,Bucks
+2254,42,019,Pennsylvania,Butler
+2255,42,021,Pennsylvania,Cambria
+2256,42,023,Pennsylvania,Cameron
+2257,42,025,Pennsylvania,Carbon
+2258,42,027,Pennsylvania,Centre
+2259,42,029,Pennsylvania,Chester
+2260,42,031,Pennsylvania,Clarion
+2261,42,033,Pennsylvania,Clearfield
+2262,42,035,Pennsylvania,Clinton
+2263,42,037,Pennsylvania,Columbia
+2264,42,039,Pennsylvania,Crawford
+2265,42,041,Pennsylvania,Cumberland
+2266,42,043,Pennsylvania,Dauphin
+2267,42,045,Pennsylvania,Delaware
+2268,42,047,Pennsylvania,Elk
+2269,42,049,Pennsylvania,Erie
+2270,42,051,Pennsylvania,Fayette
+2271,42,053,Pennsylvania,Forest
+2272,42,055,Pennsylvania,Franklin
+2273,42,057,Pennsylvania,Fulton
+2274,42,059,Pennsylvania,Greene
+2275,42,061,Pennsylvania,Huntingdon
+2276,42,063,Pennsylvania,Indiana
+2277,42,065,Pennsylvania,Jefferson
+2278,42,067,Pennsylvania,Juniata
+2279,42,069,Pennsylvania,Lackawanna
+2280,42,071,Pennsylvania,Lancaster
+2281,42,073,Pennsylvania,Lawrence
+2282,42,075,Pennsylvania,Lebanon
+2283,42,077,Pennsylvania,Lehigh
+2284,42,079,Pennsylvania,Luzerne
+2285,42,081,Pennsylvania,Lycoming
+2286,42,083,Pennsylvania,McKean
+2287,42,085,Pennsylvania,Mercer
+2288,42,087,Pennsylvania,Mifflin
+2289,42,089,Pennsylvania,Monroe
+2290,42,091,Pennsylvania,Montgomery
+2291,42,093,Pennsylvania,Montour
+2292,42,095,Pennsylvania,Northampton
+2293,42,097,Pennsylvania,Northumberland
+2294,42,099,Pennsylvania,Perry
+2295,42,101,Pennsylvania,Philadelphia
+2296,42,103,Pennsylvania,Pike
+2297,42,105,Pennsylvania,Potter
+2298,42,107,Pennsylvania,Schuylkill
+2299,42,109,Pennsylvania,Snyder
+2300,42,111,Pennsylvania,Somerset
+2301,42,113,Pennsylvania,Sullivan
+2302,42,115,Pennsylvania,Susquehanna
+2303,42,117,Pennsylvania,Tioga
+2304,42,119,Pennsylvania,Union
+2305,42,121,Pennsylvania,Venango
+2306,42,123,Pennsylvania,Warren
+2307,42,125,Pennsylvania,Washington
+2308,42,127,Pennsylvania,Wayne
+2309,42,129,Pennsylvania,Westmoreland
+2310,42,131,Pennsylvania,Wyoming
+2311,42,133,Pennsylvania,York
+2312,44,001,Rhode Island,Bristol
+2313,44,003,Rhode Island,Kent
+2314,44,005,Rhode Island,Newport
+2315,44,007,Rhode Island,Providence
+2316,44,009,Rhode Island,Washington
+2317,45,001,South Carolina,Abbeville
+2318,45,003,South Carolina,Aiken
+2319,45,005,South Carolina,Allendale
+2320,45,007,South Carolina,Anderson
+2321,45,009,South Carolina,Bamberg
+2322,45,011,South Carolina,Barnwell
+2323,45,013,South Carolina,Beaufort
+2324,45,015,South Carolina,Berkeley
+2325,45,017,South Carolina,Calhoun
+2326,45,019,South Carolina,Charleston
+2327,45,021,South Carolina,Cherokee
+2328,45,023,South Carolina,Chester
+2329,45,025,South Carolina,Chesterfield
+2330,45,027,South Carolina,Clarendon
+2331,45,029,South Carolina,Colleton
+2332,45,031,South Carolina,Darlington
+2333,45,033,South Carolina,Dillon
+2334,45,035,South Carolina,Dorchester
+2335,45,037,South Carolina,Edgefield
+2336,45,039,South Carolina,Fairfield
+2337,45,041,South Carolina,Florence
+2338,45,043,South Carolina,Georgetown
+2339,45,045,South Carolina,Greenville
+2340,45,047,South Carolina,Greenwood
+2341,45,049,South Carolina,Hampton
+2342,45,051,South Carolina,Horry
+2343,45,053,South Carolina,Jasper
+2344,45,055,South Carolina,Kershaw
+2345,45,057,South Carolina,Lancaster
+2346,45,059,South Carolina,Laurens
+2347,45,061,South Carolina,Lee
+2348,45,063,South Carolina,Lexington
+2349,45,065,South Carolina,McCormick
+2350,45,067,South Carolina,Marion
+2351,45,069,South Carolina,Marlboro
+2352,45,071,South Carolina,Newberry
+2353,45,073,South Carolina,Oconee
+2354,45,075,South Carolina,Orangeburg
+2355,45,077,South Carolina,Pickens
+2356,45,079,South Carolina,Richland
+2357,45,081,South Carolina,Saluda
+2358,45,083,South Carolina,Spartanburg
+2359,45,085,South Carolina,Sumter
+2360,45,087,South Carolina,Union
+2361,45,089,South Carolina,Williamsburg
+2362,45,091,South Carolina,York
+2363,46,003,South Dakota,Aurora
+2364,46,005,South Dakota,Beadle
+2365,46,007,South Dakota,Bennett
+2366,46,009,South Dakota,Bon Homme
+2367,46,011,South Dakota,Brookings
+2368,46,013,South Dakota,Brown
+2369,46,015,South Dakota,Brule
+2370,46,017,South Dakota,Buffalo
+2371,46,019,South Dakota,Butte
+2372,46,021,South Dakota,Campbell
+2373,46,023,South Dakota,Charles Mix
+2374,46,025,South Dakota,Clark
+2375,46,027,South Dakota,Clay
+2376,46,029,South Dakota,Codington
+2377,46,031,South Dakota,Corson
+2378,46,033,South Dakota,Custer
+2379,46,035,South Dakota,Davison
+2380,46,037,South Dakota,Day
+2381,46,039,South Dakota,Deuel
+2382,46,041,South Dakota,Dewey
+2383,46,043,South Dakota,Douglas
+2384,46,045,South Dakota,Edmunds
+2385,46,047,South Dakota,Fall River
+2386,46,049,South Dakota,Faulk
+2387,46,051,South Dakota,Grant
+2388,46,053,South Dakota,Gregory
+2389,46,055,South Dakota,Haakon
+2390,46,057,South Dakota,Hamlin
+2391,46,059,South Dakota,Hand
+2392,46,061,South Dakota,Hanson
+2393,46,063,South Dakota,Harding
+2394,46,065,South Dakota,Hughes
+2395,46,067,South Dakota,Hutchinson
+2396,46,069,South Dakota,Hyde
+2397,46,071,South Dakota,Jackson
+2398,46,073,South Dakota,Jerauld
+2399,46,075,South Dakota,Jones
+2400,46,077,South Dakota,Kingsbury
+2401,46,079,South Dakota,Lake
+2402,46,081,South Dakota,Lawrence
+2403,46,083,South Dakota,Lincoln
+2404,46,085,South Dakota,Lyman
+2405,46,087,South Dakota,McCook
+2406,46,089,South Dakota,McPherson
+2407,46,091,South Dakota,Marshall
+2408,46,093,South Dakota,Meade
+2409,46,095,South Dakota,Mellette
+2410,46,097,South Dakota,Miner
+2411,46,099,South Dakota,Minnehaha
+2412,46,101,South Dakota,Moody
+2413,46,102,South Dakota,Oglala Lakota
+2414,46,103,South Dakota,Pennington
+2415,46,105,South Dakota,Perkins
+2416,46,107,South Dakota,Potter
+2417,46,109,South Dakota,Roberts
+2418,46,111,South Dakota,Sanborn
+2419,46,115,South Dakota,Spink
+2420,46,117,South Dakota,Stanley
+2421,46,119,South Dakota,Sully
+2422,46,121,South Dakota,Todd
+2423,46,123,South Dakota,Tripp
+2424,46,125,South Dakota,Turner
+2425,46,127,South Dakota,Union
+2426,46,129,South Dakota,Walworth
+2427,46,135,South Dakota,Yankton
+2428,46,137,South Dakota,Ziebach
+2429,47,001,Tennessee,Anderson
+2430,47,003,Tennessee,Bedford
+2431,47,005,Tennessee,Benton
+2432,47,007,Tennessee,Bledsoe
+2433,47,009,Tennessee,Blount
+2434,47,011,Tennessee,Bradley
+2435,47,013,Tennessee,Campbell
+2436,47,015,Tennessee,Cannon
+2437,47,017,Tennessee,Carroll
+2438,47,019,Tennessee,Carter
+2439,47,021,Tennessee,Cheatham
+2440,47,023,Tennessee,Chester
+2441,47,025,Tennessee,Claiborne
+2442,47,027,Tennessee,Clay
+2443,47,029,Tennessee,Cocke
+2444,47,031,Tennessee,Coffee
+2445,47,033,Tennessee,Crockett
+2446,47,035,Tennessee,Cumberland
+2447,47,037,Tennessee,Davidson
+2448,47,039,Tennessee,Decatur
+2449,47,041,Tennessee,DeKalb
+2450,47,043,Tennessee,Dickson
+2451,47,045,Tennessee,Dyer
+2452,47,047,Tennessee,Fayette
+2453,47,049,Tennessee,Fentress
+2454,47,051,Tennessee,Franklin
+2455,47,053,Tennessee,Gibson
+2456,47,055,Tennessee,Giles
+2457,47,057,Tennessee,Grainger
+2458,47,059,Tennessee,Greene
+2459,47,061,Tennessee,Grundy
+2460,47,063,Tennessee,Hamblen
+2461,47,065,Tennessee,Hamilton
+2462,47,067,Tennessee,Hancock
+2463,47,069,Tennessee,Hardeman
+2464,47,071,Tennessee,Hardin
+2465,47,073,Tennessee,Hawkins
+2466,47,075,Tennessee,Haywood
+2467,47,077,Tennessee,Henderson
+2468,47,079,Tennessee,Henry
+2469,47,081,Tennessee,Hickman
+2470,47,083,Tennessee,Houston
+2471,47,085,Tennessee,Humphreys
+2472,47,087,Tennessee,Jackson
+2473,47,089,Tennessee,Jefferson
+2474,47,091,Tennessee,Johnson
+2475,47,093,Tennessee,Knox
+2476,47,095,Tennessee,Lake
+2477,47,097,Tennessee,Lauderdale
+2478,47,099,Tennessee,Lawrence
+2479,47,101,Tennessee,Lewis
+2480,47,103,Tennessee,Lincoln
+2481,47,105,Tennessee,Loudon
+2482,47,107,Tennessee,McMinn
+2483,47,109,Tennessee,McNairy
+2484,47,111,Tennessee,Macon
+2485,47,113,Tennessee,Madison
+2486,47,115,Tennessee,Marion
+2487,47,117,Tennessee,Marshall
+2488,47,119,Tennessee,Maury
+2489,47,121,Tennessee,Meigs
+2490,47,123,Tennessee,Monroe
+2491,47,125,Tennessee,Montgomery
+2492,47,127,Tennessee,Moore
+2493,47,129,Tennessee,Morgan
+2494,47,131,Tennessee,Obion
+2495,47,133,Tennessee,Overton
+2496,47,135,Tennessee,Perry
+2497,47,137,Tennessee,Pickett
+2498,47,139,Tennessee,Polk
+2499,47,141,Tennessee,Putnam
+2500,47,143,Tennessee,Rhea
+2501,47,145,Tennessee,Roane
+2502,47,147,Tennessee,Robertson
+2503,47,149,Tennessee,Rutherford
+2504,47,151,Tennessee,Scott
+2505,47,153,Tennessee,Sequatchie
+2506,47,155,Tennessee,Sevier
+2507,47,157,Tennessee,Shelby
+2508,47,159,Tennessee,Smith
+2509,47,161,Tennessee,Stewart
+2510,47,163,Tennessee,Sullivan
+2511,47,165,Tennessee,Sumner
+2512,47,167,Tennessee,Tipton
+2513,47,169,Tennessee,Trousdale
+2514,47,171,Tennessee,Unicoi
+2515,47,173,Tennessee,Union
+2516,47,175,Tennessee,Van Buren
+2517,47,177,Tennessee,Warren
+2518,47,179,Tennessee,Washington
+2519,47,181,Tennessee,Wayne
+2520,47,183,Tennessee,Weakley
+2521,47,185,Tennessee,White
+2522,47,187,Tennessee,Williamson
+2523,47,189,Tennessee,Wilson
+2524,48,001,Texas,Anderson
+2525,48,003,Texas,Andrews
+2526,48,005,Texas,Angelina
+2527,48,007,Texas,Aransas
+2528,48,009,Texas,Archer
+2529,48,011,Texas,Armstrong
+2530,48,013,Texas,Atascosa
+2531,48,015,Texas,Austin
+2532,48,017,Texas,Bailey
+2533,48,019,Texas,Bandera
+2534,48,021,Texas,Bastrop
+2535,48,023,Texas,Baylor
+2536,48,025,Texas,Bee
+2537,48,027,Texas,Bell
+2538,48,029,Texas,Bexar
+2539,48,031,Texas,Blanco
+2540,48,033,Texas,Borden
+2541,48,035,Texas,Bosque
+2542,48,037,Texas,Bowie
+2543,48,039,Texas,Brazoria
+2544,48,041,Texas,Brazos
+2545,48,043,Texas,Brewster
+2546,48,045,Texas,Briscoe
+2547,48,047,Texas,Brooks
+2548,48,049,Texas,Brown
+2549,48,051,Texas,Burleson
+2550,48,053,Texas,Burnet
+2551,48,055,Texas,Caldwell
+2552,48,057,Texas,Calhoun
+2553,48,059,Texas,Callahan
+2554,48,061,Texas,Cameron
+2555,48,063,Texas,Camp
+2556,48,065,Texas,Carson
+2557,48,067,Texas,Cass
+2558,48,069,Texas,Castro
+2559,48,071,Texas,Chambers
+2560,48,073,Texas,Cherokee
+2561,48,075,Texas,Childress
+2562,48,077,Texas,Clay
+2563,48,079,Texas,Cochran
+2564,48,081,Texas,Coke
+2565,48,083,Texas,Coleman
+2566,48,085,Texas,Collin
+2567,48,087,Texas,Collingsworth
+2568,48,089,Texas,Colorado
+2569,48,091,Texas,Comal
+2570,48,093,Texas,Comanche
+2571,48,095,Texas,Concho
+2572,48,097,Texas,Cooke
+2573,48,099,Texas,Coryell
+2574,48,101,Texas,Cottle
+2575,48,103,Texas,Crane
+2576,48,105,Texas,Crockett
+2577,48,107,Texas,Crosby
+2578,48,109,Texas,Culberson
+2579,48,111,Texas,Dallam
+2580,48,113,Texas,Dallas
+2581,48,115,Texas,Dawson
+2582,48,117,Texas,Deaf Smith
+2583,48,119,Texas,Delta
+2584,48,121,Texas,Denton
+2585,48,123,Texas,DeWitt
+2586,48,125,Texas,Dickens
+2587,48,127,Texas,Dimmit
+2588,48,129,Texas,Donley
+2589,48,131,Texas,Duval
+2590,48,133,Texas,Eastland
+2591,48,135,Texas,Ector
+2592,48,137,Texas,Edwards
+2593,48,139,Texas,Ellis
+2594,48,141,Texas,El Paso
+2595,48,143,Texas,Erath
+2596,48,145,Texas,Falls
+2597,48,147,Texas,Fannin
+2598,48,149,Texas,Fayette
+2599,48,151,Texas,Fisher
+2600,48,153,Texas,Floyd
+2601,48,155,Texas,Foard
+2602,48,157,Texas,Fort Bend
+2603,48,159,Texas,Franklin
+2604,48,161,Texas,Freestone
+2605,48,163,Texas,Frio
+2606,48,165,Texas,Gaines
+2607,48,167,Texas,Galveston
+2608,48,169,Texas,Garza
+2609,48,171,Texas,Gillespie
+2610,48,173,Texas,Glasscock
+2611,48,175,Texas,Goliad
+2612,48,177,Texas,Gonzales
+2613,48,179,Texas,Gray
+2614,48,181,Texas,Grayson
+2615,48,183,Texas,Gregg
+2616,48,185,Texas,Grimes
+2617,48,187,Texas,Guadalupe
+2618,48,189,Texas,Hale
+2619,48,191,Texas,Hall
+2620,48,193,Texas,Hamilton
+2621,48,195,Texas,Hansford
+2622,48,197,Texas,Hardeman
+2623,48,199,Texas,Hardin
+2624,48,201,Texas,Harris
+2625,48,203,Texas,Harrison
+2626,48,205,Texas,Hartley
+2627,48,207,Texas,Haskell
+2628,48,209,Texas,Hays
+2629,48,211,Texas,Hemphill
+2630,48,213,Texas,Henderson
+2631,48,215,Texas,Hidalgo
+2632,48,217,Texas,Hill
+2633,48,219,Texas,Hockley
+2634,48,221,Texas,Hood
+2635,48,223,Texas,Hopkins
+2636,48,225,Texas,Houston
+2637,48,227,Texas,Howard
+2638,48,229,Texas,Hudspeth
+2639,48,231,Texas,Hunt
+2640,48,233,Texas,Hutchinson
+2641,48,235,Texas,Irion
+2642,48,237,Texas,Jack
+2643,48,239,Texas,Jackson
+2644,48,241,Texas,Jasper
+2645,48,243,Texas,Jeff Davis
+2646,48,245,Texas,Jefferson
+2647,48,247,Texas,Jim Hogg
+2648,48,249,Texas,Jim Wells
+2649,48,251,Texas,Johnson
+2650,48,253,Texas,Jones
+2651,48,255,Texas,Karnes
+2652,48,257,Texas,Kaufman
+2653,48,259,Texas,Kendall
+2654,48,261,Texas,Kenedy
+2655,48,263,Texas,Kent
+2656,48,265,Texas,Kerr
+2657,48,267,Texas,Kimble
+2658,48,269,Texas,King
+2659,48,271,Texas,Kinney
+2660,48,273,Texas,Kleberg
+2661,48,275,Texas,Knox
+2662,48,277,Texas,Lamar
+2663,48,279,Texas,Lamb
+2664,48,281,Texas,Lampasas
+2665,48,283,Texas,La Salle
+2666,48,285,Texas,Lavaca
+2667,48,287,Texas,Lee
+2668,48,289,Texas,Leon
+2669,48,291,Texas,Liberty
+2670,48,293,Texas,Limestone
+2671,48,295,Texas,Lipscomb
+2672,48,297,Texas,Live Oak
+2673,48,299,Texas,Llano
+2674,48,301,Texas,Loving
+2675,48,303,Texas,Lubbock
+2676,48,305,Texas,Lynn
+2677,48,307,Texas,McCulloch
+2678,48,309,Texas,McLennan
+2679,48,311,Texas,McMullen
+2680,48,313,Texas,Madison
+2681,48,315,Texas,Marion
+2682,48,317,Texas,Martin
+2683,48,319,Texas,Mason
+2684,48,321,Texas,Matagorda
+2685,48,323,Texas,Maverick
+2686,48,325,Texas,Medina
+2687,48,327,Texas,Menard
+2688,48,329,Texas,Midland
+2689,48,331,Texas,Milam
+2690,48,333,Texas,Mills
+2691,48,335,Texas,Mitchell
+2692,48,337,Texas,Montague
+2693,48,339,Texas,Montgomery
+2694,48,341,Texas,Moore
+2695,48,343,Texas,Morris
+2696,48,345,Texas,Motley
+2697,48,347,Texas,Nacogdoches
+2698,48,349,Texas,Navarro
+2699,48,351,Texas,Newton
+2700,48,353,Texas,Nolan
+2701,48,355,Texas,Nueces
+2702,48,357,Texas,Ochiltree
+2703,48,359,Texas,Oldham
+2704,48,361,Texas,Orange
+2705,48,363,Texas,Palo Pinto
+2706,48,365,Texas,Panola
+2707,48,367,Texas,Parker
+2708,48,369,Texas,Parmer
+2709,48,371,Texas,Pecos
+2710,48,373,Texas,Polk
+2711,48,375,Texas,Potter
+2712,48,377,Texas,Presidio
+2713,48,379,Texas,Rains
+2714,48,381,Texas,Randall
+2715,48,383,Texas,Reagan
+2716,48,385,Texas,Real
+2717,48,387,Texas,Red River
+2718,48,389,Texas,Reeves
+2719,48,391,Texas,Refugio
+2720,48,393,Texas,Roberts
+2721,48,395,Texas,Robertson
+2722,48,397,Texas,Rockwall
+2723,48,399,Texas,Runnels
+2724,48,401,Texas,Rusk
+2725,48,403,Texas,Sabine
+2726,48,405,Texas,San Augustine
+2727,48,407,Texas,San Jacinto
+2728,48,409,Texas,San Patricio
+2729,48,411,Texas,San Saba
+2730,48,413,Texas,Schleicher
+2731,48,415,Texas,Scurry
+2732,48,417,Texas,Shackelford
+2733,48,419,Texas,Shelby
+2734,48,421,Texas,Sherman
+2735,48,423,Texas,Smith
+2736,48,425,Texas,Somervell
+2737,48,427,Texas,Starr
+2738,48,429,Texas,Stephens
+2739,48,431,Texas,Sterling
+2740,48,433,Texas,Stonewall
+2741,48,435,Texas,Sutton
+2742,48,437,Texas,Swisher
+2743,48,439,Texas,Tarrant
+2744,48,441,Texas,Taylor
+2745,48,443,Texas,Terrell
+2746,48,445,Texas,Terry
+2747,48,447,Texas,Throckmorton
+2748,48,449,Texas,Titus
+2749,48,451,Texas,Tom Green
+2750,48,453,Texas,Travis
+2751,48,455,Texas,Trinity
+2752,48,457,Texas,Tyler
+2753,48,459,Texas,Upshur
+2754,48,461,Texas,Upton
+2755,48,463,Texas,Uvalde
+2756,48,465,Texas,Val Verde
+2757,48,467,Texas,Van Zandt
+2758,48,469,Texas,Victoria
+2759,48,471,Texas,Walker
+2760,48,473,Texas,Waller
+2761,48,475,Texas,Ward
+2762,48,477,Texas,Washington
+2763,48,479,Texas,Webb
+2764,48,481,Texas,Wharton
+2765,48,483,Texas,Wheeler
+2766,48,485,Texas,Wichita
+2767,48,487,Texas,Wilbarger
+2768,48,489,Texas,Willacy
+2769,48,491,Texas,Williamson
+2770,48,493,Texas,Wilson
+2771,48,495,Texas,Winkler
+2772,48,497,Texas,Wise
+2773,48,499,Texas,Wood
+2774,48,501,Texas,Yoakum
+2775,48,503,Texas,Young
+2776,48,505,Texas,Zapata
+2777,48,507,Texas,Zavala
+2778,49,001,Utah,Beaver
+2779,49,003,Utah,Box Elder
+2780,49,005,Utah,Cache
+2781,49,007,Utah,Carbon
+2782,49,009,Utah,Daggett
+2783,49,011,Utah,Davis
+2784,49,013,Utah,Duchesne
+2785,49,015,Utah,Emery
+2786,49,017,Utah,Garfield
+2787,49,019,Utah,Grand
+2788,49,021,Utah,Iron
+2789,49,023,Utah,Juab
+2790,49,025,Utah,Kane
+2791,49,027,Utah,Millard
+2792,49,029,Utah,Morgan
+2793,49,031,Utah,Piute
+2794,49,033,Utah,Rich
+2795,49,035,Utah,Salt Lake
+2796,49,037,Utah,San Juan
+2797,49,039,Utah,Sanpete
+2798,49,041,Utah,Sevier
+2799,49,043,Utah,Summit
+2800,49,045,Utah,Tooele
+2801,49,047,Utah,Uintah
+2802,49,049,Utah,Utah
+2803,49,051,Utah,Wasatch
+2804,49,053,Utah,Washington
+2805,49,055,Utah,Wayne
+2806,49,057,Utah,Weber
+2807,50,001,Vermont,Addison
+2808,50,003,Vermont,Bennington
+2809,50,005,Vermont,Caledonia
+2810,50,007,Vermont,Chittenden
+2811,50,009,Vermont,Essex
+2812,50,011,Vermont,Franklin
+2813,50,013,Vermont,Grand Isle
+2814,50,015,Vermont,Lamoille
+2815,50,017,Vermont,Orange
+2816,50,019,Vermont,Orleans
+2817,50,021,Vermont,Rutland
+2818,50,023,Vermont,Washington
+2819,50,025,Vermont,Windham
+2820,50,027,Vermont,Windsor
+2821,51,001,Virginia,Accomack
+2822,51,003,Virginia,Albemarle
+2823,51,005,Virginia,Alleghany
+2824,51,007,Virginia,Amelia
+2825,51,009,Virginia,Amherst
+2826,51,011,Virginia,Appomattox
+2827,51,013,Virginia,Arlington
+2828,51,015,Virginia,Augusta
+2829,51,017,Virginia,Bath
+2830,51,019,Virginia,Bedford
+2831,51,021,Virginia,Bland
+2832,51,023,Virginia,Botetourt
+2833,51,025,Virginia,Brunswick
+2834,51,027,Virginia,Buchanan
+2835,51,029,Virginia,Buckingham
+2836,51,031,Virginia,Campbell
+2837,51,033,Virginia,Caroline
+2838,51,035,Virginia,Carroll
+2839,51,036,Virginia,Charles City
+2840,51,037,Virginia,Charlotte
+2841,51,041,Virginia,Chesterfield
+2842,51,043,Virginia,Clarke
+2843,51,045,Virginia,Craig
+2844,51,047,Virginia,Culpeper
+2845,51,049,Virginia,Cumberland
+2846,51,051,Virginia,Dickenson
+2847,51,053,Virginia,Dinwiddie
+2848,51,057,Virginia,Essex
+2849,51,059,Virginia,Fairfax
+2850,51,061,Virginia,Fauquier
+2851,51,063,Virginia,Floyd
+2852,51,065,Virginia,Fluvanna
+2853,51,067,Virginia,Franklin
+2854,51,069,Virginia,Frederick
+2855,51,071,Virginia,Giles
+2856,51,073,Virginia,Gloucester
+2857,51,075,Virginia,Goochland
+2858,51,077,Virginia,Grayson *
+2859,51,079,Virginia,Greene
+2860,51,081,Virginia,Greensville
+2861,51,083,Virginia,Halifax
+2862,51,085,Virginia,Hanover
+2863,51,087,Virginia,Henrico
+2864,51,089,Virginia,Henry
+2865,51,091,Virginia,Highland
+2866,51,093,Virginia,Isle of Wight
+2867,51,095,Virginia,James City
+2868,51,097,Virginia,King and Queen
+2869,51,099,Virginia,King George
+2870,51,101,Virginia,King William
+2871,51,103,Virginia,Lancaster
+2872,51,105,Virginia,Lee
+2873,51,107,Virginia,Loudoun
+2874,51,109,Virginia,Louisa
+2875,51,111,Virginia,Lunenburg
+2876,51,113,Virginia,Madison
+2877,51,115,Virginia,Mathews
+2878,51,117,Virginia,Mecklenburg
+2879,51,119,Virginia,Middlesex
+2880,51,121,Virginia,Montgomery
+2881,51,125,Virginia,Nelson
+2882,51,127,Virginia,New Kent
+2883,51,131,Virginia,Northampton
+2884,51,133,Virginia,Northumberland
+2885,51,135,Virginia,Nottoway
+2886,51,137,Virginia,Orange
+2887,51,139,Virginia,Page
+2888,51,141,Virginia,Patrick
+2889,51,143,Virginia,Pittsylvania
+2890,51,145,Virginia,Powhatan
+2891,51,147,Virginia,Prince Edward
+2892,51,149,Virginia,Prince George
+2893,51,153,Virginia,Prince William
+2894,51,155,Virginia,Pulaski
+2895,51,157,Virginia,Rappahannock
+2896,51,159,Virginia,Richmond
+2897,51,161,Virginia,Roanoke
+2898,51,163,Virginia,Rockbridge
+2899,51,165,Virginia,Rockingham
+2900,51,167,Virginia,Russell
+2901,51,169,Virginia,Scott
+2902,51,171,Virginia,Shenandoah
+2903,51,173,Virginia,Smyth
+2904,51,175,Virginia,Southampton
+2905,51,177,Virginia,Spotsylvania
+2906,51,179,Virginia,Stafford
+2907,51,181,Virginia,Surry
+2908,51,183,Virginia,Sussex
+2909,51,185,Virginia,Tazewell
+2910,51,187,Virginia,Warren
+2911,51,191,Virginia,Washington
+2912,51,193,Virginia,Westmoreland
+2913,51,195,Virginia,Wise
+2914,51,197,Virginia,Wythe
+2915,51,199,Virginia,York
+2916,51,510,Virginia,Alexandria
+2917,51,520,Virginia,Bristol
+2918,51,530,Virginia,Buena Vista
+2919,51,540,Virginia,Charlottesville
+2920,51,550,Virginia,Chesapeake
+2921,51,570,Virginia,Colonial Heights *
+2922,51,580,Virginia,Covington
+2923,51,590,Virginia,Danville
+2924,51,595,Virginia,Emporia
+2925,51,600,Virginia,Fairfax
+2926,51,610,Virginia,Falls Church
+2927,51,620,Virginia,Franklin
+2928,51,630,Virginia,Fredericksburg
+2929,51,640,Virginia,Galax
+2930,51,650,Virginia,Hampton
+2931,51,660,Virginia,Harrisonburg
+2932,51,670,Virginia,Hopewell
+2933,51,678,Virginia,Lexington *
+2934,51,680,Virginia,Lynchburg
+2935,51,683,Virginia,Manassas
+2936,51,685,Virginia,Manassas Park
+2937,51,690,Virginia,Martinsville
+2938,51,700,Virginia,Newport News
+2939,51,710,Virginia,Norfolk
+2940,51,720,Virginia,Norton
+2941,51,730,Virginia,Petersburg
+2942,51,735,Virginia,Poquoson
+2943,51,740,Virginia,Portsmouth
+2944,51,750,Virginia,Radford
+2945,51,760,Virginia,Richmond
+2946,51,770,Virginia,Roanoke *
+2947,51,775,Virginia,Salem
+2948,51,790,Virginia,Staunton
+2949,51,800,Virginia,Suffolk
+2950,51,810,Virginia,Virginia Beach
+2951,51,820,Virginia,Waynesboro
+2952,51,830,Virginia,Williamsburg
+2953,51,840,Virginia,Winchester
+2954,53,001,Washington,Adams
+2955,53,003,Washington,Asotin
+2956,53,005,Washington,Benton
+2957,53,007,Washington,Chelan
+2958,53,009,Washington,Clallam
+2959,53,011,Washington,Clark
+2960,53,013,Washington,Columbia
+2961,53,015,Washington,Cowlitz
+2962,53,017,Washington,Douglas
+2963,53,019,Washington,Ferry
+2964,53,021,Washington,Franklin
+2965,53,023,Washington,Garfield
+2966,53,025,Washington,Grant
+2967,53,027,Washington,Grays Harbor
+2968,53,029,Washington,Island
+2969,53,031,Washington,Jefferson
+2970,53,033,Washington,King
+2971,53,035,Washington,Kitsap
+2972,53,037,Washington,Kittitas
+2973,53,039,Washington,Klickitat
+2974,53,041,Washington,Lewis
+2975,53,043,Washington,Lincoln
+2976,53,045,Washington,Mason
+2977,53,047,Washington,Okanogan
+2978,53,049,Washington,Pacific
+2979,53,051,Washington,Pend Oreille
+2980,53,053,Washington,Pierce
+2981,53,055,Washington,San Juan
+2982,53,057,Washington,Skagit
+2983,53,059,Washington,Skamania
+2984,53,061,Washington,Snohomish
+2985,53,063,Washington,Spokane
+2986,53,065,Washington,Stevens
+2987,53,067,Washington,Thurston
+2988,53,069,Washington,Wahkiakum
+2989,53,071,Washington,Walla Walla
+2990,53,073,Washington,Whatcom
+2991,53,075,Washington,Whitman
+2992,53,077,Washington,Yakima
+2993,54,001,West Virginia,Barbour
+2994,54,003,West Virginia,Berkeley
+2995,54,005,West Virginia,Boone
+2996,54,007,West Virginia,Braxton
+2997,54,009,West Virginia,Brooke
+2998,54,011,West Virginia,Cabell
+2999,54,013,West Virginia,Calhoun
+3000,54,015,West Virginia,Clay
+3001,54,017,West Virginia,Doddridge
+3002,54,019,West Virginia,Fayette
+3003,54,021,West Virginia,Gilmer
+3004,54,023,West Virginia,Grant
+3005,54,025,West Virginia,Greenbrier
+3006,54,027,West Virginia,Hampshire
+3007,54,029,West Virginia,Hancock
+3008,54,031,West Virginia,Hardy
+3009,54,033,West Virginia,Harrison
+3010,54,035,West Virginia,Jackson
+3011,54,037,West Virginia,Jefferson
+3012,54,039,West Virginia,Kanawha
+3013,54,041,West Virginia,Lewis
+3014,54,043,West Virginia,Lincoln
+3015,54,045,West Virginia,Logan
+3016,54,047,West Virginia,McDowell
+3017,54,049,West Virginia,Marion
+3018,54,051,West Virginia,Marshall
+3019,54,053,West Virginia,Mason
+3020,54,055,West Virginia,Mercer
+3021,54,057,West Virginia,Mineral
+3022,54,059,West Virginia,Mingo
+3023,54,061,West Virginia,Monongalia
+3024,54,063,West Virginia,Monroe
+3025,54,065,West Virginia,Morgan
+3026,54,067,West Virginia,Nicholas
+3027,54,069,West Virginia,Ohio
+3028,54,071,West Virginia,Pendleton
+3029,54,073,West Virginia,Pleasants
+3030,54,075,West Virginia,Pocahontas
+3031,54,077,West Virginia,Preston
+3032,54,079,West Virginia,Putnam
+3033,54,081,West Virginia,Raleigh
+3034,54,083,West Virginia,Randolph
+3035,54,085,West Virginia,Ritchie
+3036,54,087,West Virginia,Roane
+3037,54,089,West Virginia,Summers
+3038,54,091,West Virginia,Taylor
+3039,54,093,West Virginia,Tucker
+3040,54,095,West Virginia,Tyler
+3041,54,097,West Virginia,Upshur
+3042,54,099,West Virginia,Wayne
+3043,54,101,West Virginia,Webster
+3044,54,103,West Virginia,Wetzel
+3045,54,105,West Virginia,Wirt
+3046,54,107,West Virginia,Wood
+3047,54,109,West Virginia,Wyoming
+3048,55,001,Wisconsin,Adams
+3049,55,003,Wisconsin,Ashland
+3050,55,005,Wisconsin,Barron
+3051,55,007,Wisconsin,Bayfield
+3052,55,009,Wisconsin,Brown
+3053,55,011,Wisconsin,Buffalo
+3054,55,013,Wisconsin,Burnett
+3055,55,015,Wisconsin,Calumet
+3056,55,017,Wisconsin,Chippewa
+3057,55,019,Wisconsin,Clark
+3058,55,021,Wisconsin,Columbia
+3059,55,023,Wisconsin,Crawford
+3060,55,025,Wisconsin,Dane
+3061,55,027,Wisconsin,Dodge
+3062,55,029,Wisconsin,Door
+3063,55,031,Wisconsin,Douglas
+3064,55,033,Wisconsin,Dunn
+3065,55,035,Wisconsin,Eau Claire
+3066,55,037,Wisconsin,Florence
+3067,55,039,Wisconsin,Fond du Lac
+3068,55,041,Wisconsin,Forest
+3069,55,043,Wisconsin,Grant
+3070,55,045,Wisconsin,Green
+3071,55,047,Wisconsin,Green Lake
+3072,55,049,Wisconsin,Iowa
+3073,55,051,Wisconsin,Iron
+3074,55,053,Wisconsin,Jackson
+3075,55,055,Wisconsin,Jefferson
+3076,55,057,Wisconsin,Juneau
+3077,55,059,Wisconsin,Kenosha
+3078,55,061,Wisconsin,Kewaunee
+3079,55,063,Wisconsin,La Crosse
+3080,55,065,Wisconsin,Lafayette
+3081,55,067,Wisconsin,Langlade
+3082,55,069,Wisconsin,Lincoln
+3083,55,071,Wisconsin,Manitowoc
+3084,55,073,Wisconsin,Marathon
+3085,55,075,Wisconsin,Marinette
+3086,55,077,Wisconsin,Marquette
+3087,55,078,Wisconsin,Menominee
+3088,55,079,Wisconsin,Milwaukee
+3089,55,081,Wisconsin,Monroe
+3090,55,083,Wisconsin,Oconto
+3091,55,085,Wisconsin,Oneida
+3092,55,087,Wisconsin,Outagamie
+3093,55,089,Wisconsin,Ozaukee
+3094,55,091,Wisconsin,Pepin
+3095,55,093,Wisconsin,Pierce
+3096,55,095,Wisconsin,Polk
+3097,55,097,Wisconsin,Portage
+3098,55,099,Wisconsin,Price
+3099,55,101,Wisconsin,Racine
+3100,55,103,Wisconsin,Richland
+3101,55,105,Wisconsin,Rock
+3102,55,107,Wisconsin,Rusk
+3103,55,109,Wisconsin,St. Croix
+3104,55,111,Wisconsin,Sauk
+3105,55,113,Wisconsin,Sawyer
+3106,55,115,Wisconsin,Shawano
+3107,55,117,Wisconsin,Sheboygan
+3108,55,119,Wisconsin,Taylor
+3109,55,121,Wisconsin,Trempealeau
+3110,55,123,Wisconsin,Vernon
+3111,55,125,Wisconsin,Vilas
+3112,55,127,Wisconsin,Walworth
+3113,55,129,Wisconsin,Washburn
+3114,55,131,Wisconsin,Washington
+3115,55,133,Wisconsin,Waukesha
+3116,55,135,Wisconsin,Waupaca
+3117,55,137,Wisconsin,Waushara
+3118,55,139,Wisconsin,Winnebago
+3119,55,141,Wisconsin,Wood
+3120,56,001,Wyoming,Albany
+3121,56,003,Wyoming,Big Horn
+3122,56,005,Wyoming,Campbell
+3123,56,007,Wyoming,Carbon
+3124,56,009,Wyoming,Converse
+3125,56,011,Wyoming,Crook
+3126,56,013,Wyoming,Fremont
+3127,56,015,Wyoming,Goshen
+3128,56,017,Wyoming,Hot Springs
+3129,56,019,Wyoming,Johnson
+3130,56,021,Wyoming,Laramie
+3131,56,023,Wyoming,Lincoln
+3132,56,025,Wyoming,Natrona
+3133,56,027,Wyoming,Niobrara
+3134,56,029,Wyoming,Park
+3135,56,031,Wyoming,Platte
+3136,56,033,Wyoming,Sheridan
+3137,56,035,Wyoming,Sublette
+3138,56,037,Wyoming,Sweetwater
+3139,56,039,Wyoming,Teton
+3140,56,041,Wyoming,Uinta
+3141,56,043,Wyoming,Washakie
+3142,56,045,Wyoming,Weston
+3143,60,010,American Samoa,Eastern
+3144,60,020,American Samoa,Manu'a
+3145,60,030,American Samoa,Rose Island
+3146,60,040,American Samoa,Swains Island
+3147,60,050,American Samoa,Western
+3148,66,010,Guam,Guam
+3149,69,085,Commonwealth of the Northern Marianas,Northern Islands
+3150,69,100,Commonwealth of the Northern Marianas,Rota
+3151,69,110,Commonwealth of the Northern Marianas,Saipan
+3152,69,120,Commonwealth of the Northern Marianas,Tinian
+3153,72,001,Puerto Rico,Adjuntas
+3154,72,003,Puerto Rico,Aguada
+3155,72,005,Puerto Rico,Aguadilla
+3156,72,007,Puerto Rico,Aguas Buenas
+3157,72,009,Puerto Rico,Aibonito
+3158,72,011,Puerto Rico,Añasco
+3159,72,013,Puerto Rico,Arecibo
+3160,72,015,Puerto Rico,Arroyo
+3161,72,017,Puerto Rico,Barceloneta
+3162,72,019,Puerto Rico,Barranquitas
+3163,72,021,Puerto Rico,Bayamón
+3164,72,023,Puerto Rico,Cabo Rojo
+3165,72,025,Puerto Rico,Caguas
+3166,72,027,Puerto Rico,Camuy
+3167,72,029,Puerto Rico,Canóvanas
+3168,72,031,Puerto Rico,Carolina
+3169,72,033,Puerto Rico,Cataño
+3170,72,035,Puerto Rico,Cayey
+3171,72,037,Puerto Rico,Ceiba
+3172,72,039,Puerto Rico,Ciales
+3173,72,041,Puerto Rico,Cidra
+3174,72,043,Puerto Rico,Coamo
+3175,72,045,Puerto Rico,Comerío
+3176,72,047,Puerto Rico,Corozal
+3177,72,049,Puerto Rico,Culebra
+3178,72,051,Puerto Rico,Dorado
+3179,72,053,Puerto Rico,Fajardo
+3180,72,054,Puerto Rico,Florida
+3181,72,055,Puerto Rico,Guánica
+3182,72,057,Puerto Rico,Guayama
+3183,72,059,Puerto Rico,Guayanilla
+3184,72,061,Puerto Rico,Guaynabo
+3185,72,063,Puerto Rico,Gurabo
+3186,72,065,Puerto Rico,Hatillo
+3187,72,067,Puerto Rico,Hormigueros
+3188,72,069,Puerto Rico,Humacao
+3189,72,071,Puerto Rico,Isabela
+3190,72,073,Puerto Rico,Jayuya
+3191,72,075,Puerto Rico,Juana Díaz
+3192,72,077,Puerto Rico,Juncos
+3193,72,079,Puerto Rico,Lajas
+3194,72,081,Puerto Rico,Lares
+3195,72,083,Puerto Rico,Las Marías
+3196,72,085,Puerto Rico,Las Piedras
+3197,72,087,Puerto Rico,Loíza
+3198,72,089,Puerto Rico,Luquillo
+3199,72,091,Puerto Rico,Manatí
+3200,72,093,Puerto Rico,Maricao
+3201,72,095,Puerto Rico,Maunabo
+3202,72,097,Puerto Rico,Mayagüez
+3203,72,099,Puerto Rico,Moca
+3204,72,101,Puerto Rico,Morovis
+3205,72,103,Puerto Rico,Naguabo
+3206,72,105,Puerto Rico,Naranjito
+3207,72,107,Puerto Rico,Orocovis
+3208,72,109,Puerto Rico,Patillas
+3209,72,111,Puerto Rico,Peñuelas
+3210,72,113,Puerto Rico,Ponce
+3211,72,115,Puerto Rico,Quebradillas
+3212,72,117,Puerto Rico,Rincón
+3213,72,119,Puerto Rico,Río Grande
+3214,72,121,Puerto Rico,Sabana Grande
+3215,72,123,Puerto Rico,Salinas
+3216,72,125,Puerto Rico,San Germán
+3217,72,127,Puerto Rico,San Juan *
+3218,72,129,Puerto Rico,San Lorenzo
+3219,72,131,Puerto Rico,San Sebastián
+3220,72,133,Puerto Rico,Santa Isabel
+3221,72,135,Puerto Rico,Toa Alta
+3222,72,137,Puerto Rico,Toa Baja
+3223,72,139,Puerto Rico,Trujillo Alto
+3224,72,141,Puerto Rico,Utuado
+3225,72,143,Puerto Rico,Vega Alta
+3226,72,145,Puerto Rico,Vega Baja
+3227,72,147,Puerto Rico,Vieques
+3228,72,149,Puerto Rico,Villalba
+3229,72,151,Puerto Rico,Yabucoa
+3230,72,153,Puerto Rico,Yauco
+3231,78,010,US Virgin Islands,St. Croix
+3232,78,020,US Virgin Islands,St. John
+3233,78,030,US Virgin Islands,St. Thomas

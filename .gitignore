@@ -1,0 +1,15 @@
+# python template
+*.pyc
+
+# virtualenv
+venv/
+
+# IDE
+.idea/
+.vscode/
+# __pycache__
+__pycache__/
+
+**__pycache__/
+
+data/
